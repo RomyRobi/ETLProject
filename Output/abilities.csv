@@ -48,15 +48,15 @@
 47,Nidoran♂,N/A
 48,Nidorino,N/A
 49,Nidoking,N/A
-50,Cleffa,Friend Guard
-51,Clefairy,Friend Guard
+50,Cleffa,N/A
+51,Clefairy,N/A
 52,Clefable,N/A
 53,Vulpix,Flash Fire
 54,Alolan Vulpix,N/A
 55,Ninetales,Flash Fire
 56,Alolan Ninetales,N/A
-57,Igglybuff,Friend Guard
-58,Jigglypuff,Friend Guard
+57,Igglybuff,N/A
+58,Jigglypuff,N/A
 59,Wigglytuff,N/A
 60,Zubat,N/A
 61,Golbat,N/A
@@ -136,8 +136,8 @@
 135,Hypno,N/A
 136,Krabby,N/A
 137,Kingler,N/A
-138,Voltorb,Soundproof
-139,Electrode,Soundproof
+138,Voltorb,N/A
+139,Electrode,N/A
 140,Exeggcute,N/A
 141,Exeggutor,N/A
 142,Alolan Exeggutor,N/A
@@ -155,7 +155,7 @@
 154,Rhyhorn,Lightning Rod
 155,Rhydon,Lightning Rod
 156,Rhyperior,Solid Rock
-157,Happiny,Friend Guard
+157,Happiny,N/A
 158,Chansey,N/A
 159,Blissey,N/A
 160,Tangela,N/A
@@ -169,8 +169,8 @@
 168,Seaking,Lightning Rod
 169,Staryu,N/A
 170,Starmie,N/A
-171,Mime Jr.,Soundproof
-172,Mr. Mime,Soundproof
+171,Mime Jr.,N/A
+172,Mr. Mime,N/A
 173,Scyther,N/A
 174,Scizor,N/A
 175,Mega Scizor,N/A
@@ -215,7 +215,7 @@
 214,Moltres,N/A
 215,Dratini,N/A
 216,Dragonair,N/A
-217,Dragonite,Multiscale
+217,Dragonite,N/A
 218,Mewtwo,N/A
 219,Mega Mewtwo X,N/A
 220,Mega Mewtwo Y,N/A
@@ -314,7 +314,7 @@
 92,Pupitar,N/A
 93,Tyranitar,N/A
 94,Mega Tyranitar,N/A
-95,Lugia,Multiscale
+95,Lugia,N/A
 96,Ho-Oh,N/A
 97,Celebi,N/A
 1,Treecko,N/A
@@ -364,9 +364,9 @@
 45,Nincada,N/A
 46,Ninjask,N/A
 47,Shedinja,Wonder Guard
-48,Whismur,Soundproof
-49,Loudred,Soundproof
-50,Exploud,Soundproof
+48,Whismur,N/A
+49,Loudred,N/A
+50,Exploud,N/A
 51,Makuhita,Thick Fat
 52,Hariyama,Thick Fat
 53,Nosepass,N/A
@@ -507,8 +507,8 @@
 19,Luxray,N/A
 20,Cranidos,N/A
 21,Rampardos,N/A
-22,Shieldon,Soundproof
-23,Bastiodon,Soundproof
+22,Shieldon,N/A
+23,Bastiodon,N/A
 24,Burmy,N/A
 25,Burmy,N/A
 26,Burmy,N/A
@@ -557,8 +557,8 @@
 69,Carnivine,Levitate
 70,Finneon,Storm Drain
 71,Lumineon,Storm Drain
-72,Snover,Soundproof
-73,Abomasnow,Soundproof
+72,Snover,N/A
+73,Abomasnow,N/A
 74,Mega Abomasnow,N/A
 75,Rotom,Levitate
 76,Heat Rotom,Levitate
@@ -723,7 +723,7 @@
 139,Golurk,N/A
 140,Pawniard,N/A
 141,Bisharp,N/A
-142,Bouffalant,Soundproof
+142,Bouffalant,Sap Sipper
 143,Rufflet,N/A
 144,Braviary,N/A
 145,Vullaby,N/A
@@ -769,9 +769,9 @@
 13,Fletchling,N/A
 14,Fletchinder,N/A
 15,Talonflame,N/A
-16,Scatterbug,Friend Guard
-17,Spewpa,Friend Guard
-18,Vivillon,Friend Guard
+16,Scatterbug,N/A
+17,Spewpa,N/A
+18,Vivillon,N/A
 19,Litleo,N/A
 20,Pyroar,N/A
 21,Flabébé,N/A
@@ -896,9 +896,9 @@
 61,Bruxish,N/A
 62,Drampa,Sap Sipper
 63,Dhelmise,N/A
-64,Jangmo-o,Soundproof
-65,Hakamo-o,Soundproof
-66,Kommo-o,Soundproof
+64,Jangmo-o,N/A
+65,Hakamo-o,N/A
+66,Kommo-o,N/A
 67,Tapu Koko,N/A
 68,Tapu Lele,N/A
 69,Tapu Bulu,N/A
@@ -906,7 +906,7 @@
 71,Cosmog,N/A
 72,Cosmoem,N/A
 73,Solgaleo,N/A
-74,Lunala,Shadow Shield
+74,Lunala,N/A
 75,Nihilego,N/A
 76,Buzzwole,N/A
 77,Pheromosa,N/A

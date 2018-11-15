@@ -1,0 +1,927 @@
+,name,def_abil
+1,Bulbasaur,N/A
+2,Ivysaur,N/A
+3,Venusaur,N/A
+4,Mega Venusaur,Thick Fat
+5,Charmander,N/A
+6,Charmeleon,N/A
+7,Charizard,N/A
+8,Mega Charizard X,N/A
+9,Mega Charizard Y,N/A
+10,Squirtle,N/A
+11,Wartortle,N/A
+12,Blastoise,N/A
+13,Mega Blastoise,N/A
+14,Caterpie,N/A
+15,Metapod,N/A
+16,Butterfree,N/A
+17,Weedle,N/A
+18,Kakuna,N/A
+19,Beedrill,N/A
+20,Mega Beedrill,N/A
+21,Pidgey,N/A
+22,Pidgeotto,N/A
+23,Pidgeot,N/A
+24,Mega Pidgeot,N/A
+25,Rattata,N/A
+26,Alolan Rattata,Thick Fat
+27,Raticate,N/A
+28,Alolan Raticate,Thick Fat
+29,Spearow,N/A
+30,Fearow,N/A
+31,Ekans,N/A
+32,Arbok,N/A
+33,Pichu,Lightning Rod
+34,Spiky-eared Pichu,N/A
+35,Pikachu,Lightning Rod
+36,Cosplay Pikachu,Lightning Rod
+37,Pikachu in a cap,N/A
+38,Raichu,Lightning Rod
+39,Alolan Raichu,N/A
+40,Sandshrew,N/A
+41,Alolan Sandshrew,N/A
+42,Sandslash,N/A
+43,Alolan Sandslash,N/A
+44,Nidoran♀,N/A
+45,Nidorina,N/A
+46,Nidoqueen,N/A
+47,Nidoran♂,N/A
+48,Nidorino,N/A
+49,Nidoking,N/A
+50,Cleffa,Friend Guard
+51,Clefairy,Friend Guard
+52,Clefable,N/A
+53,Vulpix,Flash Fire
+54,Alolan Vulpix,N/A
+55,Ninetales,Flash Fire
+56,Alolan Ninetales,N/A
+57,Igglybuff,Friend Guard
+58,Jigglypuff,Friend Guard
+59,Wigglytuff,N/A
+60,Zubat,N/A
+61,Golbat,N/A
+62,Crobat,N/A
+63,Oddish,N/A
+64,Gloom,N/A
+65,Vileplume,N/A
+66,Bellossom,N/A
+67,Paras,N/A
+68,Parasect,N/A
+69,Venonat,N/A
+70,Venomoth,N/A
+71,Diglett,N/A
+72,Alolan Diglett,N/A
+73,Dugtrio,N/A
+74,Alolan Dugtrio,N/A
+75,Meowth,N/A
+76,Alolan Meowth,N/A
+77,Persian,N/A
+78,Alolan Persian,N/A
+79,Psyduck,N/A
+80,Golduck,N/A
+81,Mankey,N/A
+82,Primeape,N/A
+83,Growlithe,Flash Fire
+84,Arcanine,Flash Fire
+85,Poliwag,Water Absorb
+86,Poliwhirl,Water Absorb
+87,Poliwrath,Water Absorb
+88,Politoed,Water Absorb
+89,Abra,N/A
+90,Kadabra,N/A
+91,Alakazam,N/A
+92,Mega Alakazam,N/A
+93,Machop,N/A
+94,Machoke,N/A
+95,Machamp,N/A
+96,Bellsprout,N/A
+97,Weepinbell,N/A
+98,Victreebel,N/A
+99,Tentacool,N/A
+100,Tentacruel,N/A
+101,Geodude,N/A
+102,Alolan Geodude,N/A
+103,Graveler,N/A
+104,Alolan Graveler,N/A
+105,Golem,N/A
+106,Alolan Golem,N/A
+107,Ponyta,Flash Fire
+108,Rapidash,Flash Fire
+109,Slowpoke,N/A
+110,Slowbro,N/A
+111,Mega Slowbro,N/A
+112,Slowking,N/A
+113,Magnemite,N/A
+114,Magneton,N/A
+115,Magnezone,N/A
+116,Farfetch'd,N/A
+117,Doduo,N/A
+118,Dodrio,N/A
+119,Seel,Thick Fat
+120,Dewgong,Thick Fat
+121,Grimer,N/A
+122,Alolan Grimer,N/A
+123,Muk,N/A
+124,Alolan Muk,N/A
+125,Shellder,N/A
+126,Cloyster,N/A
+127,Gastly,Levitate
+128,Haunter,Levitate
+129,Venusa,N/A
+130,Mega Gengar,N/A
+131,Onix,N/A
+132,Steelix,N/A
+133,Mega Steelix,N/A
+134,Drowzee,N/A
+135,Hypno,N/A
+136,Krabby,N/A
+137,Kingler,N/A
+138,Voltorb,Soundproof
+139,Electrode,Soundproof
+140,Exeggcute,N/A
+141,Exeggutor,N/A
+142,Alolan Exeggutor,N/A
+143,Cubone,Lightning Rod
+144,Marowak,Lightning Rod
+145,Alolan Marowak,Lightning Rod
+146,Tyrogue,N/A
+147,Hitmonlee,N/A
+148,Hitmonchan,N/A
+149,Hitmontop,N/A
+150,Lickitung,N/A
+151,Lickilicky,N/A
+152,Koffing,Levitate
+153,Weezing,Levitate
+154,Rhyhorn,Lightning Rod
+155,Rhydon,Lightning Rod
+156,Rhyperior,Solid Rock
+157,Happiny,Friend Guard
+158,Chansey,N/A
+159,Blissey,N/A
+160,Tangela,N/A
+161,Tangrowth,N/A
+162,Kangaskhan,N/A
+163,Mega Kangaskhan,N/A
+164,Horsea,N/A
+165,Seadra,N/A
+166,Kingdra,N/A
+167,Goldeen,Lightning Rod
+168,Seaking,Lightning Rod
+169,Staryu,N/A
+170,Starmie,N/A
+171,Mime Jr.,Soundproof
+172,Mr. Mime,Soundproof
+173,Scyther,N/A
+174,Scizor,N/A
+175,Mega Scizor,N/A
+176,Smoochum,N/A
+177,Jynx,N/A
+178,Elekid,N/A
+179,Electabuzz,N/A
+180,Electivire,Motor Drive
+181,Magby,N/A
+182,Magmar,N/A
+183,Magmortar,N/A
+184,Pinsir,N/A
+185,Mega Pinsir,N/A
+186,Tauros,N/A
+187,Magikarp,N/A
+188,Gyarados,N/A
+189,Mega Gyarados,N/A
+190,Lapras,Water Absorb
+191,Ditto,N/A
+192,Eevee,N/A
+193,Vaporeon,Water Absorb
+194,Jolteon,Volt Absorb
+195,Flareon,Flash Fire
+196,Espeon,N/A
+197,Umbreon,N/A
+198,Leafeon,N/A
+199,Glaceon,N/A
+200,Sylveon,N/A
+201,Porygon,N/A
+202,Porygon2,N/A
+203,Porygon-Z,N/A
+204,Omanyte,N/A
+205,Omastar,N/A
+206,Kabuto,N/A
+207,Kabutops,N/A
+208,Aerodactyl,N/A
+209,Mega Aerodactyl,N/A
+210,Munchlax,Thick Fat
+211,Snorlax,Thick Fat
+212,Articuno,N/A
+213,Venusa,N/A
+214,Moltres,N/A
+215,Dratini,N/A
+216,Dragonair,N/A
+217,Dragonite,Multiscale
+218,Mewtwo,N/A
+219,Mega Mewtwo X,N/A
+220,Mega Mewtwo Y,N/A
+221,Mew,N/A
+1,Chikorita,N/A
+2,Bayleef,N/A
+3,Meganium,N/A
+4,Cyndaquil,Flash Fire
+5,Quilava,Flash Fire
+6,Typhlosion,Flash Fire
+7,Totodile,N/A
+8,Croconaw,N/A
+9,Feraligatr,N/A
+10,Sentret,N/A
+11,Furret,N/A
+12,Hoothoot,N/A
+13,Noctowl,N/A
+14,Ledyba,N/A
+15,Ledian,N/A
+16,Spinarak,N/A
+17,Ariados,N/A
+18,Chinchou,Water Absorb
+19,Lanturn,Water Absorb
+20,Togepi,N/A
+21,Togetic,N/A
+22,Togekiss,N/A
+23,Natu,N/A
+24,Xatu,N/A
+25,Mareep,N/A
+26,Flaaffy,N/A
+27,Ampharos,N/A
+28,Mega Ampharos,N/A
+29,Azurill,Sap Sipper
+30,Marill,Sap Sipper
+31,Azumarill,Sap Sipper
+32,Bonsly,N/A
+33,Sudowoodo,N/A
+34,Hoppip,N/A
+35,Skiploom,N/A
+36,Jumpluff,N/A
+37,Aipom,N/A
+38,Ambipom,N/A
+39,Sunkern,N/A
+40,Sunflora,N/A
+41,Yanma,N/A
+42,Yanmega,N/A
+43,Wooper,Water Absorb
+44,Quagsire,Water Absorb
+45,Murkrow,N/A
+46,Honchkrow,N/A
+47,Misdreavus,Levitate
+48,Mismagius,Levitate
+49,Unown,Levitate
+50,Wynaut,N/A
+51,Wobbuffet,N/A
+52,Girafarig,Sap Sipper
+53,Pineco,N/A
+54,Forretress,N/A
+55,Dunsparce,N/A
+56,Gligar,N/A
+57,Gliscor,N/A
+58,Snubbull,N/A
+59,Granbull,N/A
+60,Qwilfish,N/A
+61,Shuckle,N/A
+62,Heracross,N/A
+63,Mega Heracross,N/A
+64,Sneasel,N/A
+65,Weavile,N/A
+66,Teddiursa,N/A
+67,Ursaring,N/A
+68,Slugma,N/A
+69,Magcargo,N/A
+70,Swinub,Thick Fat
+71,Piloswine,Thick Fat
+72,Mamoswine,Thick Fat
+73,Corsola,N/A
+74,Remoraid,N/A
+75,Octillery,N/A
+76,Delibird,N/A
+77,Mantyke,Water Absorb
+78,Mantine,Water Absorb
+79,Skarmory,N/A
+80,Houndour,Flash Fire
+81,Houndoom,Flash Fire
+82,Mega Houndoom,N/A
+83,Phanpy,N/A
+84,Donphan,N/A
+85,Stantler,Sap Sipper
+86,Smeargle,N/A
+87,Miltank,Sap Sipper
+88,Venusa,N/A
+89,Venusa,N/A
+90,Venusa,N/A
+91,Larvitar,N/A
+92,Pupitar,N/A
+93,Tyranitar,N/A
+94,Mega Tyranitar,N/A
+95,Lugia,Multiscale
+96,Ho-Oh,N/A
+97,Celebi,N/A
+1,Treecko,N/A
+2,Grovyle,N/A
+3,Sceptile,N/A
+4,Mega Sceptile,Lightning Rod
+5,Torchic,N/A
+6,Combusken,N/A
+7,Blaziken,N/A
+8,Mega Blaziken,N/A
+9,Mudkip,N/A
+10,Marshtomp,N/A
+11,Swampert,N/A
+12,Mega Swampert,N/A
+13,Poochyena,N/A
+14,Mightyena,N/A
+15,Zigzagoon,N/A
+16,Linoone,N/A
+17,Wurmple,N/A
+18,Silcoon,N/A
+19,Beautifly,N/A
+20,Cascoon,N/A
+21,Dustox,N/A
+22,Lotad,N/A
+23,Lombre,N/A
+24,Ludicolo,N/A
+25,Seedot,N/A
+26,Nuzleaf,N/A
+27,Shiftry,N/A
+28,Taillow,N/A
+29,Swellow,N/A
+30,Wingull,N/A
+31,Pelipper,N/A
+32,Ralts,N/A
+33,Kirlia,N/A
+34,Gardevoir,N/A
+35,Mega Gardevoir,N/A
+36,Gallade,N/A
+37,Mega Gallade,N/A
+38,Surskit,N/A
+39,Masquerain,N/A
+40,Shroomish,N/A
+41,Breloom,N/A
+42,Slakoth,N/A
+43,Vigoroth,N/A
+44,Slaking,N/A
+45,Nincada,N/A
+46,Ninjask,N/A
+47,Shedinja,Wonder Guard
+48,Whismur,Soundproof
+49,Loudred,Soundproof
+50,Exploud,Soundproof
+51,Makuhita,Thick Fat
+52,Hariyama,Thick Fat
+53,Nosepass,N/A
+54,Probopass,N/A
+55,Skitty,N/A
+56,Delcatty,N/A
+57,Sableye,N/A
+58,Mega Sableye,N/A
+59,Mawile,N/A
+60,Mega Mawile,N/A
+61,Aron,N/A
+62,Lairon,N/A
+63,Aggron,N/A
+64,Mega Aggron,N/A
+65,Meditite,N/A
+66,Medicham,N/A
+67,Mega Medicham,N/A
+68,Electrike,Lightning Rod
+69,Manectric,Lightning Rod
+70,Mega Manectric,N/A
+71,Plusle,N/A
+72,Minun,N/A
+73,Volbeat,N/A
+74,Illumise,N/A
+75,Budew,N/A
+76,Roselia,N/A
+77,Roserade,N/A
+78,Gulpin,N/A
+79,Swalot,N/A
+80,Carvanha,N/A
+81,Sharpedo,N/A
+82,Mega Sharpedo,N/A
+83,Wailmer,N/A
+84,Wailord,N/A
+85,Numel,N/A
+86,Camerupt,N/A
+87,Mega Camerupt,N/A
+88,Torkoal,N/A
+89,Spoink,Thick Fat
+90,Grumpig,Thick Fat
+91,Spinda,N/A
+92,Trapinch,N/A
+93,Vibrava,Levitate
+94,Flygon,Levitate
+95,Cacnea,Water Absorb
+96,Cacturne,Water Absorb
+97,Swablu,N/A
+98,Altaria,N/A
+99,Mega Altaria,N/A
+100,Zangoose,N/A
+101,Seviper,N/A
+102,Lunatone,Levitate
+103,Solrock,Levitate
+104,Barboach,N/A
+105,Whiscash,N/A
+106,Corphish,N/A
+107,Crawdaunt,N/A
+108,Baltoy,Levitate
+109,Claydol,Levitate
+110,Lileep,Storm Drain
+111,Cradily,Storm Drain
+112,Anorith,N/A
+113,Armaldo,N/A
+114,Feebas,N/A
+115,Milotic,N/A
+116,Castform,N/A
+117,Castform,N/A
+118,Castform,N/A
+119,Castform,N/A
+120,Kecleon,N/A
+121,Shuppet,N/A
+122,Banette,N/A
+123,Mega Banette,N/A
+124,Duskull,Levitate
+125,Dusclops,N/A
+126,Dusknoir,N/A
+127,Tropius,N/A
+128,Chingling,Levitate
+129,Chimecho,Levitate
+130,Absol,N/A
+131,Mega Absol,N/A
+132,Snorunt,N/A
+133,Glalie,N/A
+134,Mega Glalie,N/A
+135,Froslass,N/A
+136,Spheal,Thick Fat
+137,Sealeo,Thick Fat
+138,Walrein,Thick Fat
+139,Clamperl,N/A
+140,Huntail,N/A
+141,Gorebyss,N/A
+142,Relicanth,N/A
+143,Luvdisc,N/A
+144,Bagon,N/A
+145,Shelgon,N/A
+146,Salamence,N/A
+147,Mega Salamence,N/A
+148,Beldum,N/A
+149,Metang,N/A
+150,Metagross,N/A
+151,Mega Metagross,N/A
+152,Regirock,N/A
+153,Regice,N/A
+154,Registeel,N/A
+155,Latias,Levitate
+156,Mega Latias,Levitate
+157,Latios,Levitate
+158,Mega Latios,Levitate
+159,Kyogre,N/A
+160,Primal Kyogre,N/A
+161,Groudon,N/A
+162,Primal Groudon,N/A
+163,Rayquaza,N/A
+164,Mega Rayquaza,N/A
+165,Jirachi,N/A
+166,Deoxys,N/A
+167,Deoxys,N/A
+168,Deoxys,N/A
+169,Deoxys,N/A
+1,Turtwig,N/A
+2,Grotle,N/A
+3,Torterra,N/A
+4,Chimchar,N/A
+5,Monferno,N/A
+6,Infernape,N/A
+7,Piplup,N/A
+8,Prinplup,N/A
+9,Empoleon,N/A
+10,Starly,N/A
+11,Staravia,N/A
+12,Staraptor,N/A
+13,Bidoof,N/A
+14,Bibarel,N/A
+15,Kricketot,N/A
+16,Kricketune,N/A
+17,Shinx,N/A
+18,Luxio,N/A
+19,Luxray,N/A
+20,Cranidos,N/A
+21,Rampardos,N/A
+22,Shieldon,Soundproof
+23,Bastiodon,Soundproof
+24,Burmy,N/A
+25,Burmy,N/A
+26,Burmy,N/A
+27,Wormadam,N/A
+28,Wormadam,N/A
+29,Wormadam,N/A
+30,Mothim,N/A
+31,Combee,N/A
+32,Vespiquen,N/A
+33,Pachirisu,Volt Absorb
+34,Buizel,N/A
+35,Floatzel,N/A
+36,Cherubi,N/A
+37,Cherrim,N/A
+38,Cherrim,N/A
+39,Shellos,Storm Drain
+40,Shellos,Storm Drain
+41,Gastrodon,Storm Drain
+42,Gastrodon,Storm Drain
+43,Drifloon,N/A
+44,Drifblim,N/A
+45,Buneary,N/A
+46,Lopunny,N/A
+47,Mega Lopunny,N/A
+48,Glameow,N/A
+49,Purugly,Thick Fat
+50,Stunky,N/A
+51,Skuntank,N/A
+52,Bronzor,Heatproof
+53,Bronzong,Heatproof
+54,Chatot,N/A
+55,Spiritomb,N/A
+56,Gible,N/A
+57,Gabite,N/A
+58,Garchomp,N/A
+59,Mega Garchomp,N/A
+60,Riolu,N/A
+61,Lucario,N/A
+62,Mega Lucario,N/A
+63,Hippopotas,N/A
+64,Hippowdon,N/A
+65,Skorupi,N/A
+66,Drapion,N/A
+67,Croagunk,N/A
+68,Toxicroak,N/A
+69,Carnivine,Levitate
+70,Finneon,Storm Drain
+71,Lumineon,Storm Drain
+72,Snover,Soundproof
+73,Abomasnow,Soundproof
+74,Mega Abomasnow,N/A
+75,Rotom,Levitate
+76,Heat Rotom,Levitate
+77,Wash Rotom,Levitate
+78,Frost Rotom,Levitate
+79,Fan Rotom,Levitate
+80,Mow Rotom,Levitate
+81,Uxie,Levitate
+82,Mesprit,Levitate
+83,Azelf,Levitate
+84,Dialga,N/A
+85,Palkia,N/A
+86,Heatran,Flash Fire
+87,Regigigas,N/A
+88,Giratina,N/A
+89,Giratina,Levitate
+90,Cresselia,Levitate
+91,Phione,N/A
+92,Manaphy,N/A
+93,Darkrai,N/A
+94,Shaymin,N/A
+95,Shaymin,N/A
+96,Arceus,N/A
+1,Victini,N/A
+2,Snivy,N/A
+3,Servine,N/A
+4,Serperior,N/A
+5,Tepig,Thick Fat
+6,Pignite,Thick Fat
+7,Emboar,N/A
+8,Oshawott,N/A
+9,Dewott,N/A
+10,Samurott,N/A
+11,Patrat,N/A
+12,Watchog,N/A
+13,Lillipup,N/A
+14,Herdier,N/A
+15,Stoutland,N/A
+16,Purrloin,N/A
+17,Liepard,N/A
+18,Pansage,N/A
+19,Simisage,N/A
+20,Pansear,N/A
+21,Simisear,N/A
+22,Panpour,N/A
+23,Simipour,N/A
+24,Munna,N/A
+25,Musharna,N/A
+26,Pidove,N/A
+27,Tranquill,N/A
+28,Unfezant,N/A
+29,Blitzle,Sap Sipper
+30,Zebstrika,Sap Sipper
+31,Roggenrola,N/A
+32,Boldore,N/A
+33,Gigalith,N/A
+34,Woobat,N/A
+35,Swoobat,N/A
+36,Drilbur,N/A
+37,Excadrill,N/A
+38,Audino,N/A
+39,Mega Audino,N/A
+40,Timburr,N/A
+41,Gurdurr,N/A
+42,Conkeldurr,N/A
+43,Tympole,Water Absorb
+44,Palpitoad,Water Absorb
+45,Seismitoad,Water Absorb
+46,Throh,N/A
+47,Sawk,N/A
+48,Sewaddle,N/A
+49,Swadloon,N/A
+50,Leavanny,N/A
+51,Venusa,N/A
+52,Venusa,N/A
+53,Venusa,N/A
+54,Cottonee,N/A
+55,Whimsicott,N/A
+56,Petilil,N/A
+57,Lilligant,N/A
+58,Basculin,N/A
+59,Venusa,N/A
+60,Sandile,N/A
+61,Krokorok,N/A
+62,Krookodile,N/A
+63,Darumaka,N/A
+64,Darmanitan,N/A
+65,Darmanitan,N/A
+66,Maractus,Storm Drain
+67,Dwebble,N/A
+68,Crustle,N/A
+69,Scraggy,N/A
+70,Scrafty,N/A
+71,Sigilyph,N/A
+72,Yamask,N/A
+73,Cofagrigus,N/A
+74,Tirtouga,Solid Rock
+75,Carracosta,Solid Rock
+76,Archen,N/A
+77,Archeops,N/A
+78,Trubbish,N/A
+79,Garbodor,N/A
+80,Zorua,N/A
+81,Zoroark,N/A
+82,Minccino,N/A
+83,Cinccino,N/A
+84,Gothita,N/A
+85,Gothorita,N/A
+86,Gothitelle,N/A
+87,Solosis,N/A
+88,Duosion,N/A
+89,Reuniclus,N/A
+90,Ducklett,N/A
+91,Swanna,N/A
+92,Vanillite,N/A
+93,Vanillish,N/A
+94,Vanilluxe,N/A
+95,Deerling,Sap Sipper
+96,Deerling,Sap Sipper
+97,Deerling,Sap Sipper
+98,Deerling,Sap Sipper
+99,Sawsbuck,Sap Sipper
+100,Sawsbuck,Sap Sipper
+101,Sawsbuck,Sap Sipper
+102,Sawsbuck,Sap Sipper
+103,Emolga,Motor Drive
+104,Karrablast,N/A
+105,Escavalier,N/A
+106,Foongus,N/A
+107,Amoonguss,N/A
+108,Frillish,Water Absorb
+109,Jellicent,Water Absorb
+110,Alomomola,N/A
+111,Joltik,N/A
+112,Galvantula,N/A
+113,Ferroseed,N/A
+114,Ferrothorn,N/A
+115,Klink,N/A
+116,Klang,N/A
+117,Klinklang,N/A
+118,Tynamo,Levitate
+119,Eelektrik,Levitate
+120,Eelektross,Levitate
+121,Elgyem,N/A
+122,Beheeyem,N/A
+123,Venusa,Flash Fire
+124,Venusa,Flash Fire
+125,Venusa,Flash Fire
+126,Axew,N/A
+127,Fraxure,N/A
+128,Haxorus,N/A
+129,Cubchoo,N/A
+130,Beartic,N/A
+131,Cryogonal,Levitate
+132,Shelmet,N/A
+133,Accelgor,N/A
+134,Stunfisk,N/A
+135,Mienfoo,N/A
+136,Mienshao,N/A
+137,Druddigon,N/A
+138,Golett,N/A
+139,Golurk,N/A
+140,Pawniard,N/A
+141,Bisharp,N/A
+142,Bouffalant,Soundproof
+143,Rufflet,N/A
+144,Braviary,N/A
+145,Vullaby,N/A
+146,Mandibuzz,N/A
+147,Heatmor,Flash Fire
+148,Durant,N/A
+149,Deino,N/A
+150,Zweilous,N/A
+151,Hydreigon,Levitate
+152,Larvesta,N/A
+153,Volcarona,N/A
+154,Cobalion,N/A
+155,Terrakion,N/A
+156,Virizion,N/A
+157,Tornadus,N/A
+158,Tornadus,N/A
+159,Thundurus,N/A
+160,Thundurus,Volt Absorb
+161,Reshiram,N/A
+162,Zekrom,N/A
+163,Landorus,N/A
+164,Landorus,N/A
+165,Kyurem,N/A
+166,Black Kyurem,N/A
+167,White Kyurem,N/A
+168,Keldeo,N/A
+169,Keldeo,N/A
+170,Meloetta,N/A
+171,Meloetta,N/A
+172,Genesect,N/A
+1,Chespin,N/A
+2,Quilladin,N/A
+3,Chesnaught,N/A
+4,Fennekin,N/A
+5,Braixen,N/A
+6,Delphox,N/A
+7,Froakie,N/A
+8,Frogadier,N/A
+9,Greninja,N/A
+10,Ash-Greninja,N/A
+11,Bunnelby,N/A
+12,Diggersby,N/A
+13,Fletchling,N/A
+14,Fletchinder,N/A
+15,Talonflame,N/A
+16,Scatterbug,Friend Guard
+17,Spewpa,Friend Guard
+18,Vivillon,Friend Guard
+19,Litleo,N/A
+20,Pyroar,N/A
+21,Flabébé,N/A
+22,Floette,N/A
+23,Eternal Floette,N/A
+24,Florges,N/A
+25,Skiddo,Sap Sipper
+26,Gogoat,Sap Sipper
+27,Pancham,N/A
+28,Pangoro,N/A
+29,Furfrou,N/A
+30,Espurr,N/A
+31,Meowstic  ♂,N/A
+32,Meowstic  ♀,N/A
+33,Honedge,N/A
+34,Doublade,N/A
+35,Aegislash,N/A
+36,Aegislash,N/A
+37,Spritzee,N/A
+38,Aromatisse,N/A
+39,Swirlix,N/A
+40,Slurpuff,N/A
+41,Inkay,N/A
+42,Malamar,N/A
+43,Binacle,N/A
+44,Barbaracle,N/A
+45,Skrelp,N/A
+46,Dragalge,N/A
+47,Clauncher,N/A
+48,Clawitzer,N/A
+49,Helioptile,N/A
+50,Heliolisk,N/A
+51,Tyrunt,N/A
+52,Tyrantrum,N/A
+53,Amaura,N/A
+54,Aurorus,N/A
+55,Hawlucha,N/A
+56,Dedenne,N/A
+57,Carbink,N/A
+58,Goomy,Sap Sipper
+59,Sliggoo,Sap Sipper
+60,Goodra,Sap Sipper
+61,Klefki,N/A
+62,Phantump,N/A
+63,Trevenant,N/A
+64,Pumpkaboo,N/A
+65,Gourgeist,N/A
+66,Bergmite,N/A
+67,Avalugg,N/A
+68,Noibat,N/A
+69,Noivern,N/A
+70,Xerneas,N/A
+71,Yveltal,N/A
+72,Zygarde,N/A
+73,Zygarde 10% Forme,N/A
+74,Zygarde Complete Forme,N/A
+75,Diancie,N/A
+76,Mega Diancie,N/A
+77,Hoopa Confined,N/A
+78,Hoopa Unbound,N/A
+79,Volcanion,Water Absorb
+1,Rowlet,N/A
+2,Dartrix,N/A
+3,Decidueye,N/A
+4,Litten,N/A
+5,Torracat,N/A
+6,Incineroar,N/A
+7,Popplio,N/A
+8,Brionne,N/A
+9,Primarina,N/A
+10,Pikipek,N/A
+11,Trumbeak,N/A
+12,Toucannon,N/A
+13,Yungoos,N/A
+14,Gumshoos,N/A
+15,Grubbin,N/A
+16,Charjabug,N/A
+17,Vikavolt,Levitate
+18,Crabrawler,N/A
+19,Crabominable,N/A
+20,Oricorio,N/A
+21,Cutiefly,N/A
+22,Ribombee,N/A
+23,Rockruff,N/A
+24,Special Rockruff,N/A
+25,Midday Form Lycanroc,N/A
+26,Midnight Form Lycanroc,N/A
+27,Dusk Form Lycanroc,N/A
+28,Wishiwashi,N/A
+29,Mareanie,N/A
+30,Toxapex,N/A
+31,Mudbray,N/A
+32,Mudsdale,N/A
+33,Dewpider,Water Absorb
+34,Araquanid,Water Absorb
+35,Fomantis,N/A
+36,Lurantis,N/A
+37,Morelull,N/A
+38,Shiinotic,N/A
+39,Salandit,N/A
+40,Salazzle,N/A
+41,Stufful,Fluffy
+42,Bewear,Fluffy
+43,Bounsweet,N/A
+44,Steenee,N/A
+45,Tsareena,N/A
+46,Comfey,N/A
+47,Oranguru,N/A
+48,Passimian,N/A
+49,Wimpod,N/A
+50,Golisopod,N/A
+51,Sandygast,N/A
+52,Palossand,N/A
+53,Pyukumuku,N/A
+54,Type: Null,N/A
+55,Silvally,N/A
+56,Minior,N/A
+57,Komala,N/A
+58,Turtonator,N/A
+59,Togedemaru,Lightning Rod
+60,Mimikyu,N/A
+61,Bruxish,N/A
+62,Drampa,Sap Sipper
+63,Dhelmise,N/A
+64,Jangmo-o,Soundproof
+65,Hakamo-o,Soundproof
+66,Kommo-o,Soundproof
+67,Tapu Koko,N/A
+68,Tapu Lele,N/A
+69,Tapu Bulu,N/A
+70,Tapu Fini,N/A
+71,Cosmog,N/A
+72,Cosmoem,N/A
+73,Solgaleo,N/A
+74,Lunala,Shadow Shield
+75,Nihilego,N/A
+76,Buzzwole,N/A
+77,Pheromosa,N/A
+78,Xurkitree,N/A
+79,Celesteela,N/A
+80,Kartana,N/A
+81,Guzzlord,N/A
+82,Necrozma,Prism Armor
+83,Dusk Mane Necrozma,Prism Armor
+84,Dawn Wings Necrozma,Prism Armor
+85,Ultra Necrozma,N/A
+86,Magearna,N/A
+87,Marshadow,N/A
+88,Poipole,N/A
+89,Naganadel,N/A
+90,Stakataka,N/A
+91,Blacephalon,N/A
+92,Zeraora,Volt Absorb

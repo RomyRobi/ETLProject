@@ -211,7 +211,6 @@
 210,Munchlax,Thick Fat
 211,Snorlax,Thick Fat
 212,Articuno,
-213,Venusa,
 214,Moltres,
 215,Dratini,
 216,Dragonair,
@@ -307,9 +306,6 @@
 85,Stantler,Sap Sipper
 86,Smeargle,
 87,Miltank,Sap Sipper
-88,Venusa,
-89,Venusa,
-90,Venusa,
 91,Larvitar,
 92,Pupitar,
 93,Tyranitar,
@@ -433,9 +429,6 @@
 114,Feebas,
 115,Milotic,
 116,Castform,
-117,Castform,
-118,Castform,
-119,Castform,
 120,Kecleon,
 121,Shuppet,
 122,Banette,
@@ -483,9 +476,6 @@
 164,Mega Rayquaza,
 165,Jirachi,
 166,Deoxys,
-167,Deoxys,
-168,Deoxys,
-169,Deoxys,
 1,Turtwig,
 2,Grotle,
 3,Torterra,
@@ -510,11 +500,7 @@
 22,Shieldon,
 23,Bastiodon,
 24,Burmy,
-25,Burmy,
-26,Burmy,
 27,Wormadam,
-28,Wormadam,
-29,Wormadam,
 30,Mothim,
 31,Combee,
 32,Vespiquen,
@@ -523,11 +509,8 @@
 35,Floatzel,
 36,Cherubi,
 37,Cherrim,
-38,Cherrim,
 39,Shellos,Storm Drain
-40,Shellos,Storm Drain
 41,Gastrodon,Storm Drain
-42,Gastrodon,Storm Drain
 43,Drifloon,
 44,Drifblim,
 45,Buneary,
@@ -580,7 +563,6 @@
 92,Manaphy,
 93,Darkrai,
 94,Shaymin,
-95,Shaymin,
 96,Arceus,
 1,Victini,
 2,Snivy,
@@ -632,21 +614,16 @@
 48,Sewaddle,
 49,Swadloon,
 50,Leavanny,
-51,Venusa,
-52,Venusa,
-53,Venusa,
 54,Cottonee,
 55,Whimsicott,
 56,Petilil,
 57,Lilligant,
 58,Basculin,
-59,Venusa,
 60,Sandile,
 61,Krokorok,
 62,Krookodile,
 63,Darumaka,
 64,Darmanitan,
-65,Darmanitan,
 66,Maractus,Storm Drain
 67,Dwebble,
 68,Crustle,
@@ -677,13 +654,7 @@
 93,Vanillish,
 94,Vanilluxe,
 95,Deerling,Sap Sipper
-96,Deerling,Sap Sipper
-97,Deerling,Sap Sipper
-98,Deerling,Sap Sipper
 99,Sawsbuck,Sap Sipper
-100,Sawsbuck,Sap Sipper
-101,Sawsbuck,Sap Sipper
-102,Sawsbuck,Sap Sipper
 103,Emolga,Motor Drive
 104,Karrablast,
 105,Escavalier,
@@ -705,8 +676,6 @@
 121,Elgyem,
 122,Beheeyem,
 123,Venusa,Flash Fire
-124,Venusa,Flash Fire
-125,Venusa,Flash Fire
 126,Axew,
 127,Fraxure,
 128,Haxorus,
@@ -739,20 +708,16 @@
 155,Terrakion,
 156,Virizion,
 157,Tornadus,
-158,Tornadus,
 159,Thundurus,
 160,Thundurus,Volt Absorb
 161,Reshiram,
 162,Zekrom,
 163,Landorus,
-164,Landorus,
 165,Kyurem,
 166,Black Kyurem,
 167,White Kyurem,
 168,Keldeo,
-169,Keldeo,
 170,Meloetta,
-171,Meloetta,
 172,Genesect,
 1,Chespin,
 2,Quilladin,
@@ -789,7 +754,6 @@
 33,Honedge,
 34,Doublade,
 35,Aegislash,
-36,Aegislash,
 37,Spritzee,
 38,Aromatisse,
 39,Swirlix,

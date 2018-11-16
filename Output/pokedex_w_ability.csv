@@ -1,915 +1,900 @@
 ,Unnamed: 0,nat_dex,name,type1,type2,def_abil
-0,0,1,Bulbasaur,Grass,Poison,N/A
-1,1,2,Ivysaur,Grass,Poison,N/A
-2,2,3,Venusaur,Grass,Poison,N/A
-3,3,4,Charmander,Fire,,N/A
-4,4,5,Charmeleon,Fire,,N/A
-5,5,6,Charizard,Fire,Flying,N/A
-6,6,7,Squirtle,Water,,N/A
-7,7,8,Wartortle,Water,,N/A
-8,8,9,Blastoise,Water,,N/A
-9,9,10,Caterpie,Bug,,N/A
-10,10,11,Metapod,Bug,,N/A
-11,11,12,Butterfree,Bug,Flying,N/A
-12,12,13,Weedle,Bug,Poison,N/A
-13,13,14,Kakuna,Bug,Poison,N/A
-14,14,15,Beedrill,Bug,Poison,N/A
-15,15,16,Pidgey,Normal,Flying,N/A
-16,16,17,Pidgeotto,Normal,Flying,N/A
-17,17,18,Pidgeot,Normal,Flying,N/A
-18,18,19,Rattata,Normal,,N/A
+0,0,1,Bulbasaur,Grass,Poison,
+1,1,2,Ivysaur,Grass,Poison,
+2,2,3,Venusaur,Grass,Poison,
+3,3,4,Charmander,Fire,,
+4,4,5,Charmeleon,Fire,,
+5,5,6,Charizard,Fire,Flying,
+6,6,7,Squirtle,Water,,
+7,7,8,Wartortle,Water,,
+8,8,9,Blastoise,Water,,
+9,9,10,Caterpie,Bug,,
+10,10,11,Metapod,Bug,,
+11,11,12,Butterfree,Bug,Flying,
+12,12,13,Weedle,Bug,Poison,
+13,13,14,Kakuna,Bug,Poison,
+14,14,15,Beedrill,Bug,Poison,
+15,15,16,Pidgey,Normal,Flying,
+16,16,17,Pidgeotto,Normal,Flying,
+17,17,18,Pidgeot,Normal,Flying,
+18,18,19,Rattata,Normal,,
 19,19,19,Alolan Rattata,Dark,Normal,Thick Fat
-20,20,20,Raticate,Normal,,N/A
+20,20,20,Raticate,Normal,,
 21,21,20,Alolan Raticate,Dark,Normal,Thick Fat
-22,22,21,Spearow,Normal,Flying,N/A
-23,23,22,Fearow,Normal,Flying,N/A
-24,24,23,Ekans,Poison,,N/A
-25,25,24,Arbok,Poison,,N/A
+22,22,21,Spearow,Normal,Flying,
+23,23,22,Fearow,Normal,Flying,
+24,24,23,Ekans,Poison,,
+25,25,24,Arbok,Poison,,
 26,26,25,Pikachu,Electric,,Lightning Rod
 27,27,26,Raichu,Electric,,Lightning Rod
-28,28,26,Alolan Raichu,Electric,Psychic,N/A
-29,29,27,Sandshrew,Ground,,N/A
-30,30,27,Alolan Sandshrew,Ice,Steel,N/A
-31,31,28,Sandslash,Ground,,N/A
-32,32,28,Alolan Sandslash,Ice,Steel,N/A
-33,33,29,Nidoran♀,Poison,,N/A
-34,34,30,Nidorina,Poison,,N/A
-35,35,31,Nidoqueen,Poison,Ground,N/A
-36,36,32,Nidoran♂,Poison,,N/A
-37,37,33,Nidorino,Poison,,N/A
-38,38,34,Nidoking,Poison,Ground,N/A
-39,39,35,Clefairy,Fairy,,N/A
-40,40,36,Clefable,Fairy,,N/A
+28,28,26,Alolan Raichu,Electric,Psychic,
+29,29,27,Sandshrew,Ground,,
+30,30,27,Alolan Sandshrew,Ice,Steel,
+31,31,28,Sandslash,Ground,,
+32,32,28,Alolan Sandslash,Ice,Steel,
+33,33,29,Nidoran♀,Poison,,
+34,34,30,Nidorina,Poison,,
+35,35,31,Nidoqueen,Poison,Ground,
+36,36,32,Nidoran♂,Poison,,
+37,37,33,Nidorino,Poison,,
+38,38,34,Nidoking,Poison,Ground,
+39,39,35,Clefairy,Fairy,,
+40,40,36,Clefable,Fairy,,
 41,41,37,Vulpix,Fire,,Flash Fire
-42,42,37,Alolan Vulpix,Ice,,N/A
+42,42,37,Alolan Vulpix,Ice,,
 43,43,38,Ninetales,Fire,,Flash Fire
-44,44,38,Alolan Ninetales,Ice,Fairy,N/A
-45,45,39,Jigglypuff,Normal,Fairy,N/A
-46,46,40,Wigglytuff,Normal,Fairy,N/A
-47,47,41,Zubat,Poison,Flying,N/A
-48,48,42,Golbat,Poison,Flying,N/A
-49,49,43,Oddish,Grass,Poison,N/A
-50,50,44,Gloom,Grass,Poison,N/A
-51,51,45,Vileplume,Grass,Poison,N/A
-52,52,46,Paras,Bug,Grass,N/A
-53,53,47,Parasect,Bug,Grass,N/A
-54,54,48,Venonat,Bug,Poison,N/A
-55,55,49,Venomoth,Bug,Poison,N/A
-56,56,50,Diglett,Ground,,N/A
-57,57,50,Alolan Diglett,Ground,Steel,N/A
-58,58,51,Dugtrio,Ground,,N/A
-59,59,51,Alolan Dugtrio,Ground,Steel,N/A
-60,60,52,Meowth,Normal,,N/A
-61,61,52,Alolan Meowth,Dark,,N/A
-62,62,53,Persian,Normal,,N/A
-63,63,53,Alolan Persian,Dark,,N/A
-64,64,54,Psyduck,Water,,N/A
-65,65,55,Golduck,Water,,N/A
-66,66,56,Mankey,Fighting,,N/A
-67,67,57,Primeape,Fighting,,N/A
+44,44,38,Alolan Ninetales,Ice,Fairy,
+45,45,39,Jigglypuff,Normal,Fairy,
+46,46,40,Wigglytuff,Normal,Fairy,
+47,47,41,Zubat,Poison,Flying,
+48,48,42,Golbat,Poison,Flying,
+49,49,43,Oddish,Grass,Poison,
+50,50,44,Gloom,Grass,Poison,
+51,51,45,Vileplume,Grass,Poison,
+52,52,46,Paras,Bug,Grass,
+53,53,47,Parasect,Bug,Grass,
+54,54,48,Venonat,Bug,Poison,
+55,55,49,Venomoth,Bug,Poison,
+56,56,50,Diglett,Ground,,
+57,57,50,Alolan Diglett,Ground,Steel,
+58,58,51,Dugtrio,Ground,,
+59,59,51,Alolan Dugtrio,Ground,Steel,
+60,60,52,Meowth,Normal,,
+61,61,52,Alolan Meowth,Dark,,
+62,62,53,Persian,Normal,,
+63,63,53,Alolan Persian,Dark,,
+64,64,54,Psyduck,Water,,
+65,65,55,Golduck,Water,,
+66,66,56,Mankey,Fighting,,
+67,67,57,Primeape,Fighting,,
 68,68,58,Growlithe,Fire,,Flash Fire
 69,69,59,Arcanine,Fire,,Flash Fire
 70,70,60,Poliwag,Water,,Water Absorb
 71,71,61,Poliwhirl,Water,,Water Absorb
 72,72,62,Poliwrath,Water,Fighting,Water Absorb
-73,73,63,Abra,Psychic,,N/A
-74,74,64,Kadabra,Psychic,,N/A
-75,75,65,Alakazam,Psychic,,N/A
-76,76,66,Machop,Fighting,,N/A
-77,77,67,Machoke,Fighting,,N/A
-78,78,68,Machamp,Fighting,,N/A
-79,79,69,Bellsprout,Grass,Poison,N/A
-80,80,70,Weepinbell,Grass,Poison,N/A
-81,81,71,Victreebel,Grass,Poison,N/A
-82,82,72,Tentacool,Water,Poison,N/A
-83,83,73,Tentacruel,Water,Poison,N/A
-84,84,74,Geodude,Rock,Ground,N/A
-85,85,74,Alolan Geodude,Rock,Electric,N/A
-86,86,75,Graveler,Rock,Ground,N/A
-87,87,75,Alolan Graveler,Rock,Electric,N/A
-88,88,76,Golem,Rock,Ground,N/A
-89,89,76,Alolan Golem,Rock,Electric,N/A
+73,73,63,Abra,Psychic,,
+74,74,64,Kadabra,Psychic,,
+75,75,65,Alakazam,Psychic,,
+76,76,66,Machop,Fighting,,
+77,77,67,Machoke,Fighting,,
+78,78,68,Machamp,Fighting,,
+79,79,69,Bellsprout,Grass,Poison,
+80,80,70,Weepinbell,Grass,Poison,
+81,81,71,Victreebel,Grass,Poison,
+82,82,72,Tentacool,Water,Poison,
+83,83,73,Tentacruel,Water,Poison,
+84,84,74,Geodude,Rock,Ground,
+85,85,74,Alolan Geodude,Rock,Electric,
+86,86,75,Graveler,Rock,Ground,
+87,87,75,Alolan Graveler,Rock,Electric,
+88,88,76,Golem,Rock,Ground,
+89,89,76,Alolan Golem,Rock,Electric,
 90,90,77,Ponyta,Fire,,Flash Fire
 91,91,78,Rapidash,Fire,,Flash Fire
-92,92,79,Slowpoke,Water,Psychic,N/A
-93,93,80,Slowbro,Water,Psychic,N/A
-94,94,81,Magnemite,Electric,Steel,N/A
-95,95,82,Magneton,Electric,Steel,N/A
-96,96,83,Farfetch'd,Normal,Flying,N/A
-97,97,84,Doduo,Normal,Flying,N/A
-98,98,85,Dodrio,Normal,Flying,N/A
+92,92,79,Slowpoke,Water,Psychic,
+93,93,80,Slowbro,Water,Psychic,
+94,94,81,Magnemite,Electric,Steel,
+95,95,82,Magneton,Electric,Steel,
+96,96,83,Farfetch'd,Normal,Flying,
+97,97,84,Doduo,Normal,Flying,
+98,98,85,Dodrio,Normal,Flying,
 99,99,86,Seel,Water,,Thick Fat
 100,100,87,Dewgong,Water,Ice,Thick Fat
-101,101,88,Grimer,Poison,,N/A
-102,102,88,Alolan Grimer,Poison,Dark,N/A
-103,103,89,Muk,Poison,,N/A
-104,104,89,Alolan Muk,Poison,Dark,N/A
-105,105,90,Shellder,Water,,N/A
-106,106,91,Cloyster,Water,Ice,N/A
+101,101,88,Grimer,Poison,,
+102,102,88,Alolan Grimer,Poison,Dark,
+103,103,89,Muk,Poison,,
+104,104,89,Alolan Muk,Poison,Dark,
+105,105,90,Shellder,Water,,
+106,106,91,Cloyster,Water,Ice,
 107,107,92,Gastly,Ghost,Poison,Levitate
 108,108,93,Haunter,Ghost,Poison,Levitate
-109,109,94,Gengar,Ghost,Poison,
-110,110,95,Onix,Rock,Ground,N/A
-111,111,96,Drowzee,Psychic,,N/A
-112,112,97,Hypno,Psychic,,N/A
-113,113,98,Krabby,Water,,N/A
-114,114,99,Kingler,Water,,N/A
-115,115,100,Voltorb,Electric,,N/A
-116,116,101,Electrode,Electric,,N/A
-117,117,102,Exeggcute,Grass,Psychic,N/A
-118,118,103,Exeggutor,Grass,Psychic,N/A
-119,119,103,Alolan Exeggutor,Grass,Dragon,N/A
-120,120,104,Cubone,Ground,,Lightning Rod
-121,121,105,Marowak,Ground,,Lightning Rod
-122,122,105,Alolan Marowak,Fire,Ghost,Lightning Rod
-123,123,106,Hitmonlee,Fighting,,N/A
-124,124,107,Hitmonchan,Fighting,,N/A
-125,125,108,Lickitung,Normal,,N/A
-126,126,109,Koffing,Poison,,Levitate
-127,127,110,Weezing,Poison,,Levitate
-128,128,111,Rhyhorn,Ground,Rock,Lightning Rod
-129,129,112,Rhydon,Ground,Rock,Lightning Rod
-130,130,113,Chansey,Normal,,N/A
-131,131,114,Tangela,Grass,,N/A
-132,132,115,Kangaskhan,Normal,,N/A
-133,133,116,Horsea,Water,,N/A
-134,134,117,Seadra,Water,,N/A
-135,135,118,Goldeen,Water,,Lightning Rod
-136,136,119,Seaking,Water,,Lightning Rod
-137,137,120,Staryu,Water,,N/A
-138,138,121,Starmie,Water,Psychic,N/A
-139,139,122,Mr. Mime,Psychic,Fairy,N/A
-140,140,123,Scyther,Bug,Flying,N/A
-141,141,124,Jynx,Ice,Psychic,N/A
-142,142,125,Electabuzz,Electric,,N/A
-143,143,126,Magmar,Fire,,N/A
-144,144,127,Pinsir,Bug,,N/A
-145,145,128,Tauros,Normal,,N/A
-146,146,129,Magikarp,Water,,N/A
-147,147,130,Gyarados,Water,Flying,N/A
-148,148,131,Lapras,Water,Ice,Water Absorb
-149,149,132,Ditto,Normal,,N/A
-150,150,133,Eevee,Normal,,N/A
-151,151,134,Vaporeon,Water,,Water Absorb
-152,152,135,Jolteon,Electric,,Volt Absorb
-153,153,136,Flareon,Fire,,Flash Fire
-154,154,137,Porygon,Normal,,N/A
-155,155,138,Omanyte,Rock,Water,N/A
-156,156,139,Omastar,Rock,Water,N/A
-157,157,140,Kabuto,Rock,Water,N/A
-158,158,141,Kabutops,Rock,Water,N/A
-159,159,142,Aerodactyl,Rock,Flying,N/A
-160,160,143,Snorlax,Normal,,Thick Fat
-161,161,144,Articuno,Ice,Flying,N/A
-162,162,145,Zapdos,Electric,Flying,
-163,163,146,Moltres,Fire,Flying,N/A
-164,164,147,Dratini,Dragon,,N/A
-165,165,148,Dragonair,Dragon,,N/A
-166,166,149,Dragonite,Dragon,Flying,N/A
-167,167,150,Mewtwo,Psychic,,N/A
-168,168,151,Mew,Psychic,,N/A
-169,169,152,Chikorita,Grass,,N/A
-170,170,153,Bayleef,Grass,,N/A
-171,171,154,Meganium,Grass,,N/A
-172,172,155,Cyndaquil,Fire,,Flash Fire
-173,173,156,Quilava,Fire,,Flash Fire
-174,174,157,Typhlosion,Fire,,Flash Fire
-175,175,158,Totodile,Water,,N/A
-176,176,159,Croconaw,Water,,N/A
-177,177,160,Feraligatr,Water,,N/A
-178,178,161,Sentret,Normal,,N/A
-179,179,162,Furret,Normal,,N/A
-180,180,163,Hoothoot,Normal,Flying,N/A
-181,181,164,Noctowl,Normal,Flying,N/A
-182,182,165,Ledyba,Bug,Flying,N/A
-183,183,166,Ledian,Bug,Flying,N/A
-184,184,167,Spinarak,Bug,Poison,N/A
-185,185,168,Ariados,Bug,Poison,N/A
-186,186,169,Crobat,Poison,Flying,N/A
-187,187,170,Chinchou,Water,Electric,Water Absorb
-188,188,171,Lanturn,Water,Electric,Water Absorb
-189,189,172,Pichu,Electric,,Lightning Rod
-190,190,173,Cleffa,Fairy,,N/A
-191,191,174,Igglybuff,Normal,Fairy,N/A
-192,192,175,Togepi,Fairy,,N/A
-193,193,176,Togetic,Fairy,Flying,N/A
-194,194,177,Natu,Psychic,Flying,N/A
-195,195,178,Xatu,Psychic,Flying,N/A
-196,196,179,Mareep,Electric,,N/A
-197,197,180,Flaaffy,Electric,,N/A
-198,198,181,Ampharos,Electric,,N/A
-199,199,182,Bellossom,Grass,,N/A
-200,200,183,Marill,Water,Fairy,Sap Sipper
-201,201,184,Azumarill,Water,Fairy,Sap Sipper
-202,202,185,Sudowoodo,Rock,,N/A
-203,203,186,Politoed,Water,,Water Absorb
-204,204,187,Hoppip,Grass,Flying,N/A
-205,205,188,Skiploom,Grass,Flying,N/A
-206,206,189,Jumpluff,Grass,Flying,N/A
-207,207,190,Aipom,Normal,,N/A
-208,208,191,Sunkern,Grass,,N/A
-209,209,192,Sunflora,Grass,,N/A
-210,210,193,Yanma,Bug,Flying,N/A
-211,211,194,Wooper,Water,Ground,Water Absorb
-212,212,195,Quagsire,Water,Ground,Water Absorb
-213,213,196,Espeon,Psychic,,N/A
-214,214,197,Umbreon,Dark,,N/A
-215,215,198,Murkrow,Dark,Flying,N/A
-216,216,199,Slowking,Water,Psychic,N/A
-217,217,200,Misdreavus,Ghost,,Levitate
-218,218,201,Unown,Psychic,,Levitate
-219,219,202,Wobbuffet,Psychic,,N/A
-220,220,203,Girafarig,Normal,Psychic,Sap Sipper
-221,221,204,Pineco,Bug,,N/A
-222,222,205,Forretress,Bug,Steel,N/A
-223,223,206,Dunsparce,Normal,,N/A
-224,224,207,Gligar,Ground,Flying,N/A
-225,225,208,Steelix,Steel,Ground,N/A
-226,226,209,Snubbull,Fairy,,N/A
-227,227,210,Granbull,Fairy,,N/A
-228,228,211,Qwilfish,Water,Poison,N/A
-229,229,212,Scizor,Bug,Steel,N/A
-230,230,213,Shuckle,Bug,Rock,N/A
-231,231,214,Heracross,Bug,Fighting,N/A
-232,232,215,Sneasel,Dark,Ice,N/A
-233,233,216,Teddiursa,Normal,,N/A
-234,234,217,Ursaring,Normal,,N/A
-235,235,218,Slugma,Fire,,N/A
-236,236,219,Magcargo,Fire,Rock,N/A
-237,237,220,Swinub,Ice,Ground,Thick Fat
-238,238,221,Piloswine,Ice,Ground,Thick Fat
-239,239,222,Corsola,Water,Rock,N/A
-240,240,223,Remoraid,Water,,N/A
-241,241,224,Octillery,Water,,N/A
-242,242,225,Delibird,Ice,Flying,N/A
-243,243,226,Mantine,Water,Flying,Water Absorb
-244,244,227,Skarmory,Steel,Flying,N/A
-245,245,228,Houndour,Dark,Fire,Flash Fire
-246,246,229,Houndoom,Dark,Fire,Flash Fire
-247,247,230,Kingdra,Water,Dragon,N/A
-248,248,231,Phanpy,Ground,,N/A
-249,249,232,Donphan,Ground,,N/A
-250,250,233,Porygon2,Normal,,N/A
-251,251,234,Stantler,Normal,,Sap Sipper
-252,252,235,Smeargle,Normal,,N/A
-253,253,236,Tyrogue,Fighting,,N/A
-254,254,237,Hitmontop,Fighting,,N/A
-255,255,238,Smoochum,Ice,Psychic,N/A
-256,256,239,Elekid,Electric,,N/A
-257,257,240,Magby,Fire,,N/A
-258,258,241,Miltank,Normal,,Sap Sipper
-259,259,242,Blissey,Normal,,N/A
-260,260,243,Raikou,Electric,,
-261,261,244,Entei,Fire,,
-262,262,245,Suicune,Water,,
-263,263,246,Larvitar,Rock,Ground,N/A
-264,264,247,Pupitar,Rock,Ground,N/A
-265,265,248,Tyranitar,Rock,Dark,N/A
-266,266,249,Lugia,Psychic,Flying,N/A
-267,267,250,Ho-Oh,Fire,Flying,N/A
-268,268,251,Celebi,Psychic,Grass,N/A
-269,269,252,Treecko,Grass,,N/A
-270,270,253,Grovyle,Grass,,N/A
-271,271,254,Sceptile,Grass,,N/A
-272,272,255,Torchic,Fire,,N/A
-273,273,256,Combusken,Fire,Fighting,N/A
-274,274,257,Blaziken,Fire,Fighting,N/A
-275,275,258,Mudkip,Water,,N/A
-276,276,259,Marshtomp,Water,Ground,N/A
-277,277,260,Swampert,Water,Ground,N/A
-278,278,261,Poochyena,Dark,,N/A
-279,279,262,Mightyena,Dark,,N/A
-280,280,263,Zigzagoon,Normal,,N/A
-281,281,264,Linoone,Normal,,N/A
-282,282,265,Wurmple,Bug,,N/A
-283,283,266,Silcoon,Bug,,N/A
-284,284,267,Beautifly,Bug,Flying,N/A
-285,285,268,Cascoon,Bug,,N/A
-286,286,269,Dustox,Bug,Poison,N/A
-287,287,270,Lotad,Water,Grass,N/A
-288,288,271,Lombre,Water,Grass,N/A
-289,289,272,Ludicolo,Water,Grass,N/A
-290,290,273,Seedot,Grass,,N/A
-291,291,274,Nuzleaf,Grass,Dark,N/A
-292,292,275,Shiftry,Grass,Dark,N/A
-293,293,276,Taillow,Normal,Flying,N/A
-294,294,277,Swellow,Normal,Flying,N/A
-295,295,278,Wingull,Water,Flying,N/A
-296,296,279,Pelipper,Water,Flying,N/A
-297,297,280,Ralts,Psychic,Fairy,N/A
-298,298,281,Kirlia,Psychic,Fairy,N/A
-299,299,282,Gardevoir,Psychic,Fairy,N/A
-300,300,283,Surskit,Bug,Water,N/A
-301,301,284,Masquerain,Bug,Flying,N/A
-302,302,285,Shroomish,Grass,,N/A
-303,303,286,Breloom,Grass,Fighting,N/A
-304,304,287,Slakoth,Normal,,N/A
-305,305,288,Vigoroth,Normal,,N/A
-306,306,289,Slaking,Normal,,N/A
-307,307,290,Nincada,Bug,Ground,N/A
-308,308,291,Ninjask,Bug,Flying,N/A
-309,309,292,Shedinja,Bug,Ghost,Wonder Guard
-310,310,293,Whismur,Normal,,N/A
-311,311,294,Loudred,Normal,,N/A
-312,312,295,Exploud,Normal,,N/A
-313,313,296,Makuhita,Fighting,,Thick Fat
-314,314,297,Hariyama,Fighting,,Thick Fat
-315,315,298,Azurill,Normal,Fairy,Sap Sipper
-316,316,299,Nosepass,Rock,,N/A
-317,317,300,Skitty,Normal,,N/A
-318,318,301,Delcatty,Normal,,N/A
-319,319,302,Sableye,Dark,Ghost,N/A
-320,320,303,Mawile,Steel,Fairy,N/A
-321,321,304,Aron,Steel,Rock,N/A
-322,322,305,Lairon,Steel,Rock,N/A
-323,323,306,Aggron,Steel,Rock,N/A
-324,324,307,Meditite,Fighting,Psychic,N/A
-325,325,308,Medicham,Fighting,Psychic,N/A
-326,326,309,Electrike,Electric,,Lightning Rod
-327,327,310,Manectric,Electric,,Lightning Rod
-328,328,311,Plusle,Electric,,N/A
-329,329,312,Minun,Electric,,N/A
-330,330,313,Volbeat,Bug,,N/A
-331,331,314,Illumise,Bug,,N/A
-332,332,315,Roselia,Grass,Poison,N/A
-333,333,316,Gulpin,Poison,,N/A
-334,334,317,Swalot,Poison,,N/A
-335,335,318,Carvanha,Water,Dark,N/A
-336,336,319,Sharpedo,Water,Dark,N/A
-337,337,320,Wailmer,Water,,N/A
-338,338,321,Wailord,Water,,N/A
-339,339,322,Numel,Fire,Ground,N/A
-340,340,323,Camerupt,Fire,Ground,N/A
-341,341,324,Torkoal,Fire,,N/A
-342,342,325,Spoink,Psychic,,Thick Fat
-343,343,326,Grumpig,Psychic,,Thick Fat
-344,344,327,Spinda,Normal,,N/A
-345,345,328,Trapinch,Ground,,N/A
-346,346,329,Vibrava,Ground,Dragon,Levitate
-347,347,330,Flygon,Ground,Dragon,Levitate
-348,348,331,Cacnea,Grass,,Water Absorb
-349,349,332,Cacturne,Grass,Dark,Water Absorb
-350,350,333,Swablu,Normal,Flying,N/A
-351,351,334,Altaria,Dragon,Flying,N/A
-352,352,335,Zangoose,Normal,,N/A
-353,353,336,Seviper,Poison,,N/A
-354,354,337,Lunatone,Rock,Psychic,Levitate
-355,355,338,Solrock,Rock,Psychic,Levitate
-356,356,339,Barboach,Water,Ground,N/A
-357,357,340,Whiscash,Water,Ground,N/A
-358,358,341,Corphish,Water,,N/A
-359,359,342,Crawdaunt,Water,Dark,N/A
-360,360,343,Baltoy,Ground,Psychic,Levitate
-361,361,344,Claydol,Ground,Psychic,Levitate
-362,362,345,Lileep,Rock,Grass,Storm Drain
-363,363,346,Cradily,Rock,Grass,Storm Drain
-364,364,347,Anorith,Rock,Bug,N/A
-365,365,348,Armaldo,Rock,Bug,N/A
-366,366,349,Feebas,Water,,N/A
-367,367,350,Milotic,Water,,N/A
-368,368,351,Castform,Normal,,N/A
-369,368,351,Castform,Normal,,N/A
-370,368,351,Castform,Normal,,N/A
-371,368,351,Castform,Normal,,N/A
-372,369,351,Castform,Fire,,N/A
-373,369,351,Castform,Fire,,N/A
-374,369,351,Castform,Fire,,N/A
-375,369,351,Castform,Fire,,N/A
-376,370,351,Castform,Water,,N/A
-377,370,351,Castform,Water,,N/A
-378,370,351,Castform,Water,,N/A
-379,370,351,Castform,Water,,N/A
-380,371,351,Castform,Ice,,N/A
-381,371,351,Castform,Ice,,N/A
-382,371,351,Castform,Ice,,N/A
-383,371,351,Castform,Ice,,N/A
-384,372,352,Kecleon,Normal,,N/A
-385,373,353,Shuppet,Ghost,,N/A
-386,374,354,Banette,Ghost,,N/A
-387,375,355,Duskull,Ghost,,Levitate
-388,376,356,Dusclops,Ghost,,N/A
-389,377,357,Tropius,Grass,Flying,N/A
-390,378,358,Chimecho,Psychic,,Levitate
-391,379,359,Absol,Dark,,N/A
-392,380,360,Wynaut,Psychic,,N/A
-393,381,361,Snorunt,Ice,,N/A
-394,382,362,Glalie,Ice,,N/A
-395,383,363,Spheal,Ice,Water,Thick Fat
-396,384,364,Sealeo,Ice,Water,Thick Fat
-397,385,365,Walrein,Ice,Water,Thick Fat
-398,386,366,Clamperl,Water,,N/A
-399,387,367,Huntail,Water,,N/A
-400,388,368,Gorebyss,Water,,N/A
-401,389,369,Relicanth,Water,Rock,N/A
-402,390,370,Luvdisc,Water,,N/A
-403,391,371,Bagon,Dragon,,N/A
-404,392,372,Shelgon,Dragon,,N/A
-405,393,373,Salamence,Dragon,Flying,N/A
-406,394,374,Beldum,Steel,Psychic,N/A
-407,395,375,Metang,Steel,Psychic,N/A
-408,396,376,Metagross,Steel,Psychic,N/A
-409,397,377,Regirock,Rock,,N/A
-410,398,378,Regice,Ice,,N/A
-411,399,379,Registeel,Steel,,N/A
-412,400,380,Latias,Dragon,Psychic,Levitate
-413,401,381,Latios,Dragon,Psychic,Levitate
-414,402,382,Kyogre,Water,,N/A
-415,403,383,Groudon,Ground,,N/A
-416,404,384,Rayquaza,Dragon,Flying,N/A
-417,405,385,Jirachi,Steel,Psychic,N/A
-418,406,386,Deoxys,Psychic,,N/A
-419,406,386,Deoxys,Psychic,,N/A
-420,406,386,Deoxys,Psychic,,N/A
-421,406,386,Deoxys,Psychic,,N/A
-422,407,386,Deoxys,Psychic,,N/A
-423,407,386,Deoxys,Psychic,,N/A
-424,407,386,Deoxys,Psychic,,N/A
-425,407,386,Deoxys,Psychic,,N/A
-426,408,386,Deoxys,Psychic,,N/A
-427,408,386,Deoxys,Psychic,,N/A
-428,408,386,Deoxys,Psychic,,N/A
-429,408,386,Deoxys,Psychic,,N/A
-430,409,386,Deoxys,Psychic,,N/A
-431,409,386,Deoxys,Psychic,,N/A
-432,409,386,Deoxys,Psychic,,N/A
-433,409,386,Deoxys,Psychic,,N/A
-434,410,387,Turtwig,Grass,,N/A
-435,411,388,Grotle,Grass,,N/A
-436,412,389,Torterra,Grass,Ground,N/A
-437,413,390,Chimchar,Fire,,N/A
-438,414,391,Monferno,Fire,Fighting,N/A
-439,415,392,Infernape,Fire,Fighting,N/A
-440,416,393,Piplup,Water,,N/A
-441,417,394,Prinplup,Water,,N/A
-442,418,395,Empoleon,Water,Steel,N/A
-443,419,396,Starly,Normal,Flying,N/A
-444,420,397,Staravia,Normal,Flying,N/A
-445,421,398,Staraptor,Normal,Flying,N/A
-446,422,399,Bidoof,Normal,,N/A
-447,423,400,Bibarel,Normal,Water,N/A
-448,424,401,Kricketot,Bug,,N/A
-449,425,402,Kricketune,Bug,,N/A
-450,426,403,Shinx,Electric,,N/A
-451,427,404,Luxio,Electric,,N/A
-452,428,405,Luxray,Electric,,N/A
-453,429,406,Budew,Grass,Poison,N/A
-454,430,407,Roserade,Grass,Poison,N/A
-455,431,408,Cranidos,Rock,,N/A
-456,432,409,Rampardos,Rock,,N/A
-457,433,410,Shieldon,Rock,Steel,N/A
-458,434,411,Bastiodon,Rock,Steel,N/A
-459,435,412,Burmy,Bug,,N/A
-460,435,412,Burmy,Bug,,N/A
-461,435,412,Burmy,Bug,,N/A
-462,436,412,Burmy,Bug,,N/A
-463,436,412,Burmy,Bug,,N/A
-464,436,412,Burmy,Bug,,N/A
-465,437,412,Burmy,Bug,,N/A
-466,437,412,Burmy,Bug,,N/A
-467,437,412,Burmy,Bug,,N/A
-468,438,413,Wormadam,Bug,Grass,N/A
-469,438,413,Wormadam,Bug,Grass,N/A
-470,438,413,Wormadam,Bug,Grass,N/A
-471,439,413,Wormadam,Bug,Ground,N/A
-472,439,413,Wormadam,Bug,Ground,N/A
-473,439,413,Wormadam,Bug,Ground,N/A
-474,440,413,Wormadam,Bug,Steel,N/A
-475,440,413,Wormadam,Bug,Steel,N/A
-476,440,413,Wormadam,Bug,Steel,N/A
-477,441,414,Mothim,Bug,Flying,N/A
-478,442,415,Combee,Bug,Flying,N/A
-479,443,416,Vespiquen,Bug,Flying,N/A
-480,444,417,Pachirisu,Electric,,Volt Absorb
-481,445,418,Buizel,Water,,N/A
-482,446,419,Floatzel,Water,,N/A
-483,447,420,Cherubi,Grass,,N/A
-484,448,421,Cherrim,Grass,,N/A
-485,448,421,Cherrim,Grass,,N/A
-486,449,422,Shellos,Water,,Storm Drain
-487,449,422,Shellos,Water,,Storm Drain
-488,450,422,Shellos,Water,,Storm Drain
-489,450,422,Shellos,Water,,Storm Drain
-490,451,423,Gastrodon,Water,Ground,Storm Drain
-491,451,423,Gastrodon,Water,Ground,Storm Drain
-492,452,423,Gastrodon,Water,Ground,Storm Drain
-493,452,423,Gastrodon,Water,Ground,Storm Drain
-494,453,424,Ambipom,Normal,,N/A
-495,454,425,Drifloon,Ghost,Flying,N/A
-496,455,426,Drifblim,Ghost,Flying,N/A
-497,456,427,Buneary,Normal,,N/A
-498,457,428,Lopunny,Normal,,N/A
-499,458,429,Mismagius,Ghost,,Levitate
-500,459,430,Honchkrow,Dark,Flying,N/A
-501,460,431,Glameow,Normal,,N/A
-502,461,432,Purugly,Normal,,Thick Fat
-503,462,433,Chingling,Psychic,,Levitate
-504,463,434,Stunky,Poison,Dark,N/A
-505,464,435,Skuntank,Poison,Dark,N/A
-506,465,436,Bronzor,Steel,Psychic,Heatproof
-507,466,437,Bronzong,Steel,Psychic,Heatproof
-508,467,438,Bonsly,Rock,,N/A
-509,468,439,Mime Jr.,Psychic,Fairy,N/A
-510,469,440,Happiny,Normal,,N/A
-511,470,441,Chatot,Normal,Flying,N/A
-512,471,442,Spiritomb,Ghost,Dark,N/A
-513,472,443,Gible,Dragon,Ground,N/A
-514,473,444,Gabite,Dragon,Ground,N/A
-515,474,445,Garchomp,Dragon,Ground,N/A
-516,475,446,Munchlax,Normal,,Thick Fat
-517,476,447,Riolu,Fighting,,N/A
-518,477,448,Lucario,Fighting,Steel,N/A
-519,478,449,Hippopotas,Ground,,N/A
-520,479,450,Hippowdon,Ground,,N/A
-521,480,451,Skorupi,Poison,Bug,N/A
-522,481,452,Drapion,Poison,Dark,N/A
-523,482,453,Croagunk,Poison,Fighting,N/A
-524,483,454,Toxicroak,Poison,Fighting,N/A
-525,484,455,Carnivine,Grass,,Levitate
-526,485,456,Finneon,Water,,Storm Drain
-527,486,457,Lumineon,Water,,Storm Drain
-528,487,458,Mantyke,Water,Flying,Water Absorb
-529,488,459,Snover,Grass,Ice,N/A
-530,489,460,Abomasnow,Grass,Ice,N/A
-531,490,461,Weavile,Dark,Ice,N/A
-532,491,462,Magnezone,Electric,Steel,N/A
-533,492,463,Lickilicky,Normal,,N/A
-534,493,464,Rhyperior,Ground,Rock,Solid Rock
-535,494,465,Tangrowth,Grass,,N/A
-536,495,466,Electivire,Electric,,Motor Drive
-537,496,467,Magmortar,Fire,,N/A
-538,497,468,Togekiss,Fairy,Flying,N/A
-539,498,469,Yanmega,Bug,Flying,N/A
-540,499,470,Leafeon,Grass,,N/A
-541,500,471,Glaceon,Ice,,N/A
-542,501,472,Gliscor,Ground,Flying,N/A
-543,502,473,Mamoswine,Ice,Ground,Thick Fat
-544,503,474,Porygon-Z,Normal,,N/A
-545,504,475,Gallade,Psychic,Fighting,N/A
-546,505,476,Probopass,Rock,Steel,N/A
-547,506,477,Dusknoir,Ghost,,N/A
-548,507,478,Froslass,Ice,Ghost,N/A
-549,508,479,Rotom,Electric,Ghost,Levitate
-550,509,479,Rotom,Electric,Fire,Levitate
-551,510,479,Rotom,Electric,Water,Levitate
-552,511,479,Rotom,Electric,Ice,Levitate
-553,512,479,Rotom,Electric,Flying,Levitate
-554,513,479,Rotom,Electric,Grass,Levitate
-555,514,480,Uxie,Psychic,,Levitate
-556,515,481,Mesprit,Psychic,,Levitate
-557,516,482,Azelf,Psychic,,Levitate
-558,517,483,Dialga,Steel,Dragon,N/A
-559,518,484,Palkia,Water,Dragon,N/A
-560,519,485,Heatran,Fire,Steel,Flash Fire
-561,520,486,Regigigas,Normal,,N/A
-562,521,487,Giratina,Ghost,Dragon,N/A
-563,521,487,Giratina,Ghost,Dragon,Levitate
-564,522,487,Giratina,Ghost,Dragon,N/A
-565,522,487,Giratina,Ghost,Dragon,Levitate
-566,523,488,Cresselia,Psychic,,Levitate
-567,524,489,Phione,Water,,N/A
-568,525,490,Manaphy,Water,,N/A
-569,526,491,Darkrai,Dark,,N/A
-570,527,492,Shaymin,Grass,,N/A
-571,527,492,Shaymin,Grass,,N/A
-572,528,492,Shaymin,Grass,Flying,N/A
-573,528,492,Shaymin,Grass,Flying,N/A
-574,529,493,Arceus,Normal,,N/A
-575,530,494,Victini,Psychic,Fire,N/A
-576,531,495,Snivy,Grass,,N/A
-577,532,496,Servine,Grass,,N/A
-578,533,497,Serperior,Grass,,N/A
-579,534,498,Tepig,Fire,,Thick Fat
-580,535,499,Pignite,Fire,Fighting,Thick Fat
-581,536,500,Emboar,Fire,Fighting,N/A
-582,537,501,Oshawott,Water,,N/A
-583,538,502,Dewott,Water,,N/A
-584,539,503,Samurott,Water,,N/A
-585,540,504,Patrat,Normal,,N/A
-586,541,505,Watchog,Normal,,N/A
-587,542,506,Lillipup,Normal,,N/A
-588,543,507,Herdier,Normal,,N/A
-589,544,508,Stoutland,Normal,,N/A
-590,545,509,Purrloin,Dark,,N/A
-591,546,510,Liepard,Dark,,N/A
-592,547,511,Pansage,Grass,,N/A
-593,548,512,Simisage,Grass,,N/A
-594,549,513,Pansear,Fire,,N/A
-595,550,514,Simisear,Fire,,N/A
-596,551,515,Panpour,Water,,N/A
-597,552,516,Simipour,Water,,N/A
-598,553,517,Munna,Psychic,,N/A
-599,554,518,Musharna,Psychic,,N/A
-600,555,519,Pidove,Normal,Flying,N/A
-601,556,520,Tranquill,Normal,Flying,N/A
-602,557,521,Unfezant,Normal,Flying,N/A
-603,558,521,Unfezant,Normal,Flying,N/A
-604,559,522,Blitzle,Electric,,Sap Sipper
-605,560,523,Zebstrika,Electric,,Sap Sipper
-606,561,524,Roggenrola,Rock,,N/A
-607,562,525,Boldore,Rock,,N/A
-608,563,526,Gigalith,Rock,,N/A
-609,564,527,Woobat,Psychic,Flying,N/A
-610,565,528,Swoobat,Psychic,Flying,N/A
-611,566,529,Drilbur,Ground,,N/A
-612,567,530,Excadrill,Ground,Steel,N/A
-613,568,531,Audino,Normal,,N/A
-614,569,532,Timburr,Fighting,,N/A
-615,570,533,Gurdurr,Fighting,,N/A
-616,571,534,Conkeldurr,Fighting,,N/A
-617,572,535,Tympole,Water,,Water Absorb
-618,573,536,Palpitoad,Water,Ground,Water Absorb
-619,574,537,Seismitoad,Water,Ground,Water Absorb
-620,575,538,Throh,Fighting,,N/A
-621,576,539,Sawk,Fighting,,N/A
-622,577,540,Sewaddle,Bug,Grass,N/A
-623,578,541,Swadloon,Bug,Grass,N/A
-624,579,542,Leavanny,Bug,Grass,N/A
-625,580,543,Venipede,Bug,Poison,
-626,581,544,Whirlipede,Bug,Poison,
-627,582,545,Scolipede,Bug,Poison,
-628,583,546,Cottonee,Grass,Fairy,N/A
-629,584,547,Whimsicott,Grass,Fairy,N/A
-630,585,548,Petilil,Grass,,N/A
-631,586,549,Lilligant,Grass,,N/A
-632,587,550,Basculin,Water,,N/A
-633,588,550,Basculin,Water,,N/A
-634,589,551,Sandile,Ground,Dark,N/A
-635,590,552,Krokorok,Ground,Dark,N/A
-636,591,553,Krookodile,Ground,Dark,N/A
-637,592,554,Darumaka,Fire,,N/A
-638,593,555,Darmanitan,Fire,,N/A
-639,593,555,Darmanitan,Fire,,N/A
-640,594,555,Darmanitan,Fire,Psychic,N/A
-641,594,555,Darmanitan,Fire,Psychic,N/A
-642,595,556,Maractus,Grass,,Storm Drain
-643,596,557,Dwebble,Bug,Rock,N/A
-644,597,558,Crustle,Bug,Rock,N/A
-645,598,559,Scraggy,Dark,Fighting,N/A
-646,599,560,Scrafty,Dark,Fighting,N/A
-647,600,561,Sigilyph,Psychic,Flying,N/A
-648,601,562,Yamask,Ghost,,N/A
-649,602,563,Cofagrigus,Ghost,,N/A
-650,603,564,Tirtouga,Water,Rock,Solid Rock
-651,604,565,Carracosta,Water,Rock,Solid Rock
-652,605,566,Archen,Rock,Flying,N/A
-653,606,567,Archeops,Rock,Flying,N/A
-654,607,568,Trubbish,Poison,,N/A
-655,608,569,Garbodor,Poison,,N/A
-656,609,570,Zorua,Dark,,N/A
-657,610,571,Zoroark,Dark,,N/A
-658,611,572,Minccino,Normal,,N/A
-659,612,573,Cinccino,Normal,,N/A
-660,613,574,Gothita,Psychic,,N/A
-661,614,575,Gothorita,Psychic,,N/A
-662,615,576,Gothitelle,Psychic,,N/A
-663,616,577,Solosis,Psychic,,N/A
-664,617,578,Duosion,Psychic,,N/A
-665,618,579,Reuniclus,Psychic,,N/A
-666,619,580,Ducklett,Water,Flying,N/A
-667,620,581,Swanna,Water,Flying,N/A
-668,621,582,Vanillite,Ice,,N/A
-669,622,583,Vanillish,Ice,,N/A
-670,623,584,Vanilluxe,Ice,,N/A
-671,624,585,Deerling,Normal,Grass,Sap Sipper
-672,624,585,Deerling,Normal,Grass,Sap Sipper
-673,624,585,Deerling,Normal,Grass,Sap Sipper
-674,624,585,Deerling,Normal,Grass,Sap Sipper
-675,625,586,Sawsbuck,Normal,Grass,Sap Sipper
-676,625,586,Sawsbuck,Normal,Grass,Sap Sipper
-677,625,586,Sawsbuck,Normal,Grass,Sap Sipper
-678,625,586,Sawsbuck,Normal,Grass,Sap Sipper
-679,626,587,Emolga,Electric,Flying,Motor Drive
-680,627,588,Karrablast,Bug,,N/A
-681,628,589,Escavalier,Bug,Steel,N/A
-682,629,590,Foongus,Grass,Poison,N/A
-683,630,591,Amoonguss,Grass,Poison,N/A
-684,631,592,Frillish,Water,Ghost,Water Absorb
-685,632,592,Frillish,Water,Ghost,Water Absorb
-686,633,593,Jellicent,Water,Ghost,Water Absorb
-687,634,593,Jellicent,Water,Ghost,Water Absorb
-688,635,594,Alomomola,Water,,N/A
-689,636,595,Joltik,Bug,Electric,N/A
-690,637,596,Galvantula,Bug,Electric,N/A
-691,638,597,Ferroseed,Grass,Steel,N/A
-692,639,598,Ferrothorn,Grass,Steel,N/A
-693,640,599,Klink,Steel,,N/A
-694,641,600,Klang,Steel,,N/A
-695,642,601,Klinklang,Steel,,N/A
-696,643,602,Tynamo,Electric,,Levitate
-697,644,603,Eelektrik,Electric,,Levitate
-698,645,604,Eelektross,Electric,,Levitate
-699,646,605,Elgyem,Psychic,,N/A
-700,647,606,Beheeyem,Psychic,,N/A
-701,648,607,Litwick,Ghost,Fire,
-702,649,608,Lampent,Ghost,Fire,
-703,650,609,Chandelure,Ghost,Fire,
-704,651,610,Axew,Dragon,,N/A
-705,652,611,Fraxure,Dragon,,N/A
-706,653,612,Haxorus,Dragon,,N/A
-707,654,613,Cubchoo,Ice,,N/A
-708,655,614,Beartic,Ice,,N/A
-709,656,615,Cryogonal,Ice,,Levitate
-710,657,616,Shelmet,Bug,,N/A
-711,658,617,Accelgor,Bug,,N/A
-712,659,618,Stunfisk,Ground,Electric,N/A
-713,660,619,Mienfoo,Fighting,,N/A
-714,661,620,Mienshao,Fighting,,N/A
-715,662,621,Druddigon,Dragon,,N/A
-716,663,622,Golett,Ground,Ghost,N/A
-717,664,623,Golurk,Ground,Ghost,N/A
-718,665,624,Pawniard,Dark,Steel,N/A
-719,666,625,Bisharp,Dark,Steel,N/A
-720,667,626,Bouffalant,Normal,,Sap Sipper
-721,668,627,Rufflet,Normal,Flying,N/A
-722,669,628,Braviary,Normal,Flying,N/A
-723,670,629,Vullaby,Dark,Flying,N/A
-724,671,630,Mandibuzz,Dark,Flying,N/A
-725,672,631,Heatmor,Fire,,Flash Fire
-726,673,632,Durant,Bug,Steel,N/A
-727,674,633,Deino,Dark,Dragon,N/A
-728,675,634,Zweilous,Dark,Dragon,N/A
-729,676,635,Hydreigon,Dark,Dragon,Levitate
-730,677,636,Larvesta,Bug,Fire,N/A
-731,678,637,Volcarona,Bug,Fire,N/A
-732,679,638,Cobalion,Steel,Fighting,N/A
-733,680,639,Terrakion,Rock,Fighting,N/A
-734,681,640,Virizion,Grass,Fighting,N/A
-735,682,641,Tornadus,Flying,,N/A
-736,682,641,Tornadus,Flying,,N/A
-737,683,642,Thundurus,Electric,Flying,N/A
-738,683,642,Thundurus,Electric,Flying,Volt Absorb
-739,684,643,Reshiram,Dragon,Fire,N/A
-740,685,644,Zekrom,Dragon,Electric,N/A
-741,686,645,Landorus,Ground,Flying,N/A
-742,686,645,Landorus,Ground,Flying,N/A
-743,687,646,Kyurem,Dragon,Ice,N/A
-744,688,647,Keldeo,Water,Fighting,N/A
-745,688,647,Keldeo,Water,Fighting,N/A
-746,689,648,Meloetta,Normal,Psychic,N/A
-747,689,648,Meloetta,Normal,Psychic,N/A
-748,690,648,Meloetta,Normal,Fighting,N/A
-749,690,648,Meloetta,Normal,Fighting,N/A
-750,691,649,Genesect,Bug,Steel,N/A
-751,692,650,Chespin,Grass,,N/A
-752,693,651,Quilladin,Grass,,N/A
-753,694,652,Chesnaught,Grass,Fighting,N/A
-754,695,653,Fennekin,Fire,,N/A
-755,696,654,Braixen,Fire,,N/A
-756,697,655,Delphox,Fire,Psychic,N/A
-757,698,656,Froakie,Water,,N/A
-758,699,657,Frogadier,Water,,N/A
-759,700,658,Greninja,Water,Dark,N/A
-760,701,659,Bunnelby,Normal,,N/A
-761,702,660,Diggersby,Normal,Ground,N/A
-762,703,661,Fletchling,Normal,Flying,N/A
-763,704,662,Fletchinder,Fire,Flying,N/A
-764,705,663,Talonflame,Fire,Flying,N/A
-765,706,664,Scatterbug,Bug,,N/A
-766,707,665,Spewpa,Bug,,N/A
-767,708,666,Vivillon,Bug,Flying,N/A
-768,709,667,Litleo,Fire,Normal,N/A
-769,710,668,Pyroar,Fire,Normal,N/A
-770,711,669,Flabébé,Fairy,,N/A
-771,712,670,Floette,Fairy,,N/A
-772,713,671,Florges,Fairy,,N/A
-773,714,672,Skiddo,Grass,,Sap Sipper
-774,715,673,Gogoat,Grass,,Sap Sipper
-775,716,674,Pancham,Fighting,,N/A
-776,717,675,Pangoro,Fighting,Dark,N/A
-777,718,676,Furfrou,Normal,,N/A
-778,719,677,Espurr,Psychic,,N/A
-779,720,678,Meowstic,Psychic,,
-780,721,679,Honedge,Steel,Ghost,N/A
-781,722,680,Doublade,Steel,Ghost,N/A
-782,723,681,Aegislash,Steel,Ghost,N/A
-783,723,681,Aegislash,Steel,Ghost,N/A
-784,724,682,Spritzee,Fairy,,N/A
-785,725,683,Aromatisse,Fairy,,N/A
-786,726,684,Swirlix,Fairy,,N/A
-787,727,685,Slurpuff,Fairy,,N/A
-788,728,686,Inkay,Dark,Psychic,N/A
-789,729,687,Malamar,Dark,Psychic,N/A
-790,730,688,Binacle,Rock,Water,N/A
-791,731,689,Barbaracle,Rock,Water,N/A
-792,732,690,Skrelp,Poison,Water,N/A
-793,733,691,Dragalge,Poison,Dragon,N/A
-794,734,692,Clauncher,Water,,N/A
-795,735,693,Clawitzer,Water,,N/A
-796,736,694,Helioptile,Electric,Normal,N/A
-797,737,695,Heliolisk,Electric,Normal,N/A
-798,738,696,Tyrunt,Rock,Dragon,N/A
-799,739,697,Tyrantrum,Rock,Dragon,N/A
-800,740,698,Amaura,Rock,Ice,N/A
-801,741,699,Aurorus,Rock,Ice,N/A
-802,742,700,Sylveon,Fairy,,N/A
-803,743,701,Hawlucha,Fighting,Flying,N/A
-804,744,702,Dedenne,Electric,Fairy,N/A
-805,745,703,Carbink,Rock,Fairy,N/A
-806,746,704,Goomy,Dragon,,Sap Sipper
-807,747,705,Sliggoo,Dragon,,Sap Sipper
-808,748,706,Goodra,Dragon,,Sap Sipper
-809,749,707,Klefki,Steel,Fairy,N/A
-810,750,708,Phantump,Ghost,Grass,N/A
-811,751,709,Trevenant,Ghost,Grass,N/A
-812,752,710,Pumpkaboo,Ghost,Grass,N/A
-813,753,711,Gourgeist,Ghost,Grass,N/A
-814,754,712,Bergmite,Ice,,N/A
-815,755,713,Avalugg,Ice,,N/A
-816,756,714,Noibat,Flying,Dragon,N/A
-817,757,715,Noivern,Flying,Dragon,N/A
-818,758,716,Xerneas,Fairy,,N/A
-819,759,717,Yveltal,Dark,Flying,N/A
-820,760,718,Zygarde,Dragon,Ground,N/A
-821,761,719,Diancie,Rock,Fairy,N/A
-822,762,720,Hoopa,Psychic,Ghost,
-823,763,720,Hoopa,Psychic,Dark,
-824,764,721,Volcanion,Fire,Water,Water Absorb
-825,765,722,Rowlet,Grass,Flying,N/A
-826,766,723,Dartrix,Grass,Flying,N/A
-827,767,724,Decidueye,Grass,Ghost,N/A
-828,768,725,Litten,Fire,,N/A
-829,769,726,Torracat,Fire,,N/A
-830,770,727,Incineroar,Fire,Dark,N/A
-831,771,728,Popplio,Water,,N/A
-832,772,729,Brionne,Water,,N/A
-833,773,730,Primarina,Water,Fairy,N/A
-834,774,731,Pikipek,Normal,Flying,N/A
-835,775,732,Trumbeak,Normal,Flying,N/A
-836,776,733,Toucannon,Normal,Flying,N/A
-837,777,734,Yungoos,Normal,,N/A
-838,778,735,Gumshoos,Normal,,N/A
-839,779,736,Grubbin,Bug,,N/A
-840,780,737,Charjabug,Bug,Electric,N/A
-841,781,738,Vikavolt,Bug,Electric,Levitate
-842,782,739,Crabrawler,Fighting,,N/A
-843,783,740,Crabominable,Fighting,Ice,N/A
-844,784,741,Oricorio,Fire,Flying,N/A
-845,785,741,Oricorio,Electric,Flying,N/A
-846,786,741,Oricorio,Psychic,Flying,N/A
-847,787,741,Oricorio,Ghost,Flying,N/A
-848,788,742,Cutiefly,Bug,Fairy,N/A
-849,789,743,Ribombee,Bug,Fairy,N/A
-850,790,744,Rockruff,Rock,,N/A
-851,791,745,Lycanroc,Rock,,
-852,792,746,Wishiwashi,Water,,N/A
-853,793,747,Mareanie,Poison,Water,N/A
-854,794,748,Toxapex,Poison,Water,N/A
-855,795,749,Mudbray,Ground,,N/A
-856,796,750,Mudsdale,Ground,,N/A
-857,797,751,Dewpider,Water,Bug,Water Absorb
-858,798,752,Araquanid,Water,Bug,Water Absorb
-859,799,753,Fomantis,Grass,,N/A
-860,800,754,Lurantis,Grass,,N/A
-861,801,755,Morelull,Grass,Fairy,N/A
-862,802,756,Shiinotic,Grass,Fairy,N/A
-863,803,757,Salandit,Poison,Fire,N/A
-864,804,758,Salazzle,Poison,Fire,N/A
-865,805,759,Stufful,Normal,Fighting,Fluffy
-866,806,760,Bewear,Normal,Fighting,Fluffy
-867,807,761,Bounsweet,Grass,,N/A
-868,808,762,Steenee,Grass,,N/A
-869,809,763,Tsareena,Grass,,N/A
-870,810,764,Comfey,Fairy,,N/A
-871,811,765,Oranguru,Normal,Psychic,N/A
-872,812,766,Passimian,Fighting,,N/A
-873,813,767,Wimpod,Bug,Water,N/A
-874,814,768,Golisopod,Bug,Water,N/A
-875,815,769,Sandygast,Ghost,Ground,N/A
-876,816,770,Palossand,Ghost,Ground,N/A
-877,817,771,Pyukumuku,Water,,N/A
-878,818,772,Type: Null,Normal,,N/A
-879,819,773,Silvally,Normal,,N/A
-880,820,774,Minior,Rock,Flying,N/A
-881,821,775,Komala,Normal,,N/A
-882,822,776,Turtonator,Fire,Dragon,N/A
-883,823,777,Togedemaru,Electric,Steel,Lightning Rod
-884,824,778,Mimikyu,Ghost,Fairy,N/A
-885,825,779,Bruxish,Water,Psychic,N/A
-886,826,780,Drampa,Normal,Dragon,Sap Sipper
-887,827,781,Dhelmise,Ghost,Grass,N/A
-888,828,782,Jangmo-o,Dragon,,N/A
-889,829,783,Hakamo-o,Dragon,Fighting,N/A
-890,830,784,Kommo-o,Dragon,Fighting,N/A
-891,831,785,Tapu Koko,Electric,Fairy,N/A
-892,832,786,Tapu Lele,Psychic,Fairy,N/A
-893,833,787,Tapu Bulu,Grass,Fairy,N/A
-894,834,788,Tapu Fini,Water,Fairy,N/A
-895,835,789,Cosmog,Psychic,,N/A
-896,836,790,Cosmoem,Psychic,,N/A
-897,837,791,Solgaleo,Psychic,Steel,N/A
-898,838,792,Lunala,Psychic,Ghost,N/A
-899,839,793,Nihilego,Rock,Poison,N/A
-900,840,794,Buzzwole,Bug,Fighting,N/A
-901,841,795,Pheromosa,Bug,Fighting,N/A
-902,842,796,Xurkitree,Electric,,N/A
-903,843,797,Celesteela,Steel,Flying,N/A
-904,844,798,Kartana,Grass,Steel,N/A
-905,845,799,Guzzlord,Dark,Dragon,N/A
-906,846,800,Necrozma,Psychic,,Prism Armor
-907,847,801,Magearna,Steel,Fairy,N/A
-908,848,802,Marshadow,Fighting,Ghost,N/A
-909,849,803,Poipole,Poison,,N/A
-910,850,804,Naganadel,Poison,Dragon,N/A
-911,851,805,Stakataka,Rock,Steel,N/A
-912,852,806,Blacephalon,Fire,Ghost,N/A
-913,853,807,Zeraora,Electric,,Volt Absorb
+109,110,95,Onix,Rock,Ground,
+110,111,96,Drowzee,Psychic,,
+111,112,97,Hypno,Psychic,,
+112,113,98,Krabby,Water,,
+113,114,99,Kingler,Water,,
+114,115,100,Voltorb,Electric,,
+115,116,101,Electrode,Electric,,
+116,117,102,Exeggcute,Grass,Psychic,
+117,118,103,Exeggutor,Grass,Psychic,
+118,119,103,Alolan Exeggutor,Grass,Dragon,
+119,120,104,Cubone,Ground,,Lightning Rod
+120,121,105,Marowak,Ground,,Lightning Rod
+121,122,105,Alolan Marowak,Fire,Ghost,Lightning Rod
+122,123,106,Hitmonlee,Fighting,,
+123,124,107,Hitmonchan,Fighting,,
+124,125,108,Lickitung,Normal,,
+125,126,109,Koffing,Poison,,Levitate
+126,127,110,Weezing,Poison,,Levitate
+127,128,111,Rhyhorn,Ground,Rock,Lightning Rod
+128,129,112,Rhydon,Ground,Rock,Lightning Rod
+129,130,113,Chansey,Normal,,
+130,131,114,Tangela,Grass,,
+131,132,115,Kangaskhan,Normal,,
+132,133,116,Horsea,Water,,
+133,134,117,Seadra,Water,,
+134,135,118,Goldeen,Water,,Lightning Rod
+135,136,119,Seaking,Water,,Lightning Rod
+136,137,120,Staryu,Water,,
+137,138,121,Starmie,Water,Psychic,
+138,139,122,Mr. Mime,Psychic,Fairy,
+139,140,123,Scyther,Bug,Flying,
+140,141,124,Jynx,Ice,Psychic,
+141,142,125,Electabuzz,Electric,,
+142,143,126,Magmar,Fire,,
+143,144,127,Pinsir,Bug,,
+144,145,128,Tauros,Normal,,
+145,146,129,Magikarp,Water,,
+146,147,130,Gyarados,Water,Flying,
+147,148,131,Lapras,Water,Ice,Water Absorb
+148,149,132,Ditto,Normal,,
+149,150,133,Eevee,Normal,,
+150,151,134,Vaporeon,Water,,Water Absorb
+151,152,135,Jolteon,Electric,,Volt Absorb
+152,153,136,Flareon,Fire,,Flash Fire
+153,154,137,Porygon,Normal,,
+154,155,138,Omanyte,Rock,Water,
+155,156,139,Omastar,Rock,Water,
+156,157,140,Kabuto,Rock,Water,
+157,158,141,Kabutops,Rock,Water,
+158,159,142,Aerodactyl,Rock,Flying,
+159,160,143,Snorlax,Normal,,Thick Fat
+160,161,144,Articuno,Ice,Flying,
+161,163,146,Moltres,Fire,Flying,
+162,164,147,Dratini,Dragon,,
+163,165,148,Dragonair,Dragon,,
+164,166,149,Dragonite,Dragon,Flying,
+165,167,150,Mewtwo,Psychic,,
+166,168,151,Mew,Psychic,,
+167,169,152,Chikorita,Grass,,
+168,170,153,Bayleef,Grass,,
+169,171,154,Meganium,Grass,,
+170,172,155,Cyndaquil,Fire,,Flash Fire
+171,173,156,Quilava,Fire,,Flash Fire
+172,174,157,Typhlosion,Fire,,Flash Fire
+173,175,158,Totodile,Water,,
+174,176,159,Croconaw,Water,,
+175,177,160,Feraligatr,Water,,
+176,178,161,Sentret,Normal,,
+177,179,162,Furret,Normal,,
+178,180,163,Hoothoot,Normal,Flying,
+179,181,164,Noctowl,Normal,Flying,
+180,182,165,Ledyba,Bug,Flying,
+181,183,166,Ledian,Bug,Flying,
+182,184,167,Spinarak,Bug,Poison,
+183,185,168,Ariados,Bug,Poison,
+184,186,169,Crobat,Poison,Flying,
+185,187,170,Chinchou,Water,Electric,Water Absorb
+186,188,171,Lanturn,Water,Electric,Water Absorb
+187,189,172,Pichu,Electric,,Lightning Rod
+188,190,173,Cleffa,Fairy,,
+189,191,174,Igglybuff,Normal,Fairy,
+190,192,175,Togepi,Fairy,,
+191,193,176,Togetic,Fairy,Flying,
+192,194,177,Natu,Psychic,Flying,
+193,195,178,Xatu,Psychic,Flying,
+194,196,179,Mareep,Electric,,
+195,197,180,Flaaffy,Electric,,
+196,198,181,Ampharos,Electric,,
+197,199,182,Bellossom,Grass,,
+198,200,183,Marill,Water,Fairy,Sap Sipper
+199,201,184,Azumarill,Water,Fairy,Sap Sipper
+200,202,185,Sudowoodo,Rock,,
+201,203,186,Politoed,Water,,Water Absorb
+202,204,187,Hoppip,Grass,Flying,
+203,205,188,Skiploom,Grass,Flying,
+204,206,189,Jumpluff,Grass,Flying,
+205,207,190,Aipom,Normal,,
+206,208,191,Sunkern,Grass,,
+207,209,192,Sunflora,Grass,,
+208,210,193,Yanma,Bug,Flying,
+209,211,194,Wooper,Water,Ground,Water Absorb
+210,212,195,Quagsire,Water,Ground,Water Absorb
+211,213,196,Espeon,Psychic,,
+212,214,197,Umbreon,Dark,,
+213,215,198,Murkrow,Dark,Flying,
+214,216,199,Slowking,Water,Psychic,
+215,217,200,Misdreavus,Ghost,,Levitate
+216,218,201,Unown,Psychic,,Levitate
+217,219,202,Wobbuffet,Psychic,,
+218,220,203,Girafarig,Normal,Psychic,Sap Sipper
+219,221,204,Pineco,Bug,,
+220,222,205,Forretress,Bug,Steel,
+221,223,206,Dunsparce,Normal,,
+222,224,207,Gligar,Ground,Flying,
+223,225,208,Steelix,Steel,Ground,
+224,226,209,Snubbull,Fairy,,
+225,227,210,Granbull,Fairy,,
+226,228,211,Qwilfish,Water,Poison,
+227,229,212,Scizor,Bug,Steel,
+228,230,213,Shuckle,Bug,Rock,
+229,231,214,Heracross,Bug,Fighting,
+230,232,215,Sneasel,Dark,Ice,
+231,233,216,Teddiursa,Normal,,
+232,234,217,Ursaring,Normal,,
+233,235,218,Slugma,Fire,,
+234,236,219,Magcargo,Fire,Rock,
+235,237,220,Swinub,Ice,Ground,Thick Fat
+236,238,221,Piloswine,Ice,Ground,Thick Fat
+237,239,222,Corsola,Water,Rock,
+238,240,223,Remoraid,Water,,
+239,241,224,Octillery,Water,,
+240,242,225,Delibird,Ice,Flying,
+241,243,226,Mantine,Water,Flying,Water Absorb
+242,244,227,Skarmory,Steel,Flying,
+243,245,228,Houndour,Dark,Fire,Flash Fire
+244,246,229,Houndoom,Dark,Fire,Flash Fire
+245,247,230,Kingdra,Water,Dragon,
+246,248,231,Phanpy,Ground,,
+247,249,232,Donphan,Ground,,
+248,250,233,Porygon2,Normal,,
+249,251,234,Stantler,Normal,,Sap Sipper
+250,252,235,Smeargle,Normal,,
+251,253,236,Tyrogue,Fighting,,
+252,254,237,Hitmontop,Fighting,,
+253,255,238,Smoochum,Ice,Psychic,
+254,256,239,Elekid,Electric,,
+255,257,240,Magby,Fire,,
+256,258,241,Miltank,Normal,,Sap Sipper
+257,259,242,Blissey,Normal,,
+258,263,246,Larvitar,Rock,Ground,
+259,264,247,Pupitar,Rock,Ground,
+260,265,248,Tyranitar,Rock,Dark,
+261,266,249,Lugia,Psychic,Flying,
+262,267,250,Ho-Oh,Fire,Flying,
+263,268,251,Celebi,Psychic,Grass,
+264,269,252,Treecko,Grass,,
+265,270,253,Grovyle,Grass,,
+266,271,254,Sceptile,Grass,,
+267,272,255,Torchic,Fire,,
+268,273,256,Combusken,Fire,Fighting,
+269,274,257,Blaziken,Fire,Fighting,
+270,275,258,Mudkip,Water,,
+271,276,259,Marshtomp,Water,Ground,
+272,277,260,Swampert,Water,Ground,
+273,278,261,Poochyena,Dark,,
+274,279,262,Mightyena,Dark,,
+275,280,263,Zigzagoon,Normal,,
+276,281,264,Linoone,Normal,,
+277,282,265,Wurmple,Bug,,
+278,283,266,Silcoon,Bug,,
+279,284,267,Beautifly,Bug,Flying,
+280,285,268,Cascoon,Bug,,
+281,286,269,Dustox,Bug,Poison,
+282,287,270,Lotad,Water,Grass,
+283,288,271,Lombre,Water,Grass,
+284,289,272,Ludicolo,Water,Grass,
+285,290,273,Seedot,Grass,,
+286,291,274,Nuzleaf,Grass,Dark,
+287,292,275,Shiftry,Grass,Dark,
+288,293,276,Taillow,Normal,Flying,
+289,294,277,Swellow,Normal,Flying,
+290,295,278,Wingull,Water,Flying,
+291,296,279,Pelipper,Water,Flying,
+292,297,280,Ralts,Psychic,Fairy,
+293,298,281,Kirlia,Psychic,Fairy,
+294,299,282,Gardevoir,Psychic,Fairy,
+295,300,283,Surskit,Bug,Water,
+296,301,284,Masquerain,Bug,Flying,
+297,302,285,Shroomish,Grass,,
+298,303,286,Breloom,Grass,Fighting,
+299,304,287,Slakoth,Normal,,
+300,305,288,Vigoroth,Normal,,
+301,306,289,Slaking,Normal,,
+302,307,290,Nincada,Bug,Ground,
+303,308,291,Ninjask,Bug,Flying,
+304,309,292,Shedinja,Bug,Ghost,Wonder Guard
+305,310,293,Whismur,Normal,,
+306,311,294,Loudred,Normal,,
+307,312,295,Exploud,Normal,,
+308,313,296,Makuhita,Fighting,,Thick Fat
+309,314,297,Hariyama,Fighting,,Thick Fat
+310,315,298,Azurill,Normal,Fairy,Sap Sipper
+311,316,299,Nosepass,Rock,,
+312,317,300,Skitty,Normal,,
+313,318,301,Delcatty,Normal,,
+314,319,302,Sableye,Dark,Ghost,
+315,320,303,Mawile,Steel,Fairy,
+316,321,304,Aron,Steel,Rock,
+317,322,305,Lairon,Steel,Rock,
+318,323,306,Aggron,Steel,Rock,
+319,324,307,Meditite,Fighting,Psychic,
+320,325,308,Medicham,Fighting,Psychic,
+321,326,309,Electrike,Electric,,Lightning Rod
+322,327,310,Manectric,Electric,,Lightning Rod
+323,328,311,Plusle,Electric,,
+324,329,312,Minun,Electric,,
+325,330,313,Volbeat,Bug,,
+326,331,314,Illumise,Bug,,
+327,332,315,Roselia,Grass,Poison,
+328,333,316,Gulpin,Poison,,
+329,334,317,Swalot,Poison,,
+330,335,318,Carvanha,Water,Dark,
+331,336,319,Sharpedo,Water,Dark,
+332,337,320,Wailmer,Water,,
+333,338,321,Wailord,Water,,
+334,339,322,Numel,Fire,Ground,
+335,340,323,Camerupt,Fire,Ground,
+336,341,324,Torkoal,Fire,,
+337,342,325,Spoink,Psychic,,Thick Fat
+338,343,326,Grumpig,Psychic,,Thick Fat
+339,344,327,Spinda,Normal,,
+340,345,328,Trapinch,Ground,,
+341,346,329,Vibrava,Ground,Dragon,Levitate
+342,347,330,Flygon,Ground,Dragon,Levitate
+343,348,331,Cacnea,Grass,,Water Absorb
+344,349,332,Cacturne,Grass,Dark,Water Absorb
+345,350,333,Swablu,Normal,Flying,
+346,351,334,Altaria,Dragon,Flying,
+347,352,335,Zangoose,Normal,,
+348,353,336,Seviper,Poison,,
+349,354,337,Lunatone,Rock,Psychic,Levitate
+350,355,338,Solrock,Rock,Psychic,Levitate
+351,356,339,Barboach,Water,Ground,
+352,357,340,Whiscash,Water,Ground,
+353,358,341,Corphish,Water,,
+354,359,342,Crawdaunt,Water,Dark,
+355,360,343,Baltoy,Ground,Psychic,Levitate
+356,361,344,Claydol,Ground,Psychic,Levitate
+357,362,345,Lileep,Rock,Grass,Storm Drain
+358,363,346,Cradily,Rock,Grass,Storm Drain
+359,364,347,Anorith,Rock,Bug,
+360,365,348,Armaldo,Rock,Bug,
+361,366,349,Feebas,Water,,
+362,367,350,Milotic,Water,,
+363,368,351,Castform,Normal,,
+364,368,351,Castform,Normal,,
+365,368,351,Castform,Normal,,
+366,368,351,Castform,Normal,,
+367,369,351,Castform,Fire,,
+368,369,351,Castform,Fire,,
+369,369,351,Castform,Fire,,
+370,369,351,Castform,Fire,,
+371,370,351,Castform,Water,,
+372,370,351,Castform,Water,,
+373,370,351,Castform,Water,,
+374,370,351,Castform,Water,,
+375,371,351,Castform,Ice,,
+376,371,351,Castform,Ice,,
+377,371,351,Castform,Ice,,
+378,371,351,Castform,Ice,,
+379,372,352,Kecleon,Normal,,
+380,373,353,Shuppet,Ghost,,
+381,374,354,Banette,Ghost,,
+382,375,355,Duskull,Ghost,,Levitate
+383,376,356,Dusclops,Ghost,,
+384,377,357,Tropius,Grass,Flying,
+385,378,358,Chimecho,Psychic,,Levitate
+386,379,359,Absol,Dark,,
+387,380,360,Wynaut,Psychic,,
+388,381,361,Snorunt,Ice,,
+389,382,362,Glalie,Ice,,
+390,383,363,Spheal,Ice,Water,Thick Fat
+391,384,364,Sealeo,Ice,Water,Thick Fat
+392,385,365,Walrein,Ice,Water,Thick Fat
+393,386,366,Clamperl,Water,,
+394,387,367,Huntail,Water,,
+395,388,368,Gorebyss,Water,,
+396,389,369,Relicanth,Water,Rock,
+397,390,370,Luvdisc,Water,,
+398,391,371,Bagon,Dragon,,
+399,392,372,Shelgon,Dragon,,
+400,393,373,Salamence,Dragon,Flying,
+401,394,374,Beldum,Steel,Psychic,
+402,395,375,Metang,Steel,Psychic,
+403,396,376,Metagross,Steel,Psychic,
+404,397,377,Regirock,Rock,,
+405,398,378,Regice,Ice,,
+406,399,379,Registeel,Steel,,
+407,400,380,Latias,Dragon,Psychic,Levitate
+408,401,381,Latios,Dragon,Psychic,Levitate
+409,402,382,Kyogre,Water,,
+410,403,383,Groudon,Ground,,
+411,404,384,Rayquaza,Dragon,Flying,
+412,405,385,Jirachi,Steel,Psychic,
+413,406,386,Deoxys,Psychic,,
+414,406,386,Deoxys,Psychic,,
+415,406,386,Deoxys,Psychic,,
+416,406,386,Deoxys,Psychic,,
+417,407,386,Deoxys,Psychic,,
+418,407,386,Deoxys,Psychic,,
+419,407,386,Deoxys,Psychic,,
+420,407,386,Deoxys,Psychic,,
+421,408,386,Deoxys,Psychic,,
+422,408,386,Deoxys,Psychic,,
+423,408,386,Deoxys,Psychic,,
+424,408,386,Deoxys,Psychic,,
+425,409,386,Deoxys,Psychic,,
+426,409,386,Deoxys,Psychic,,
+427,409,386,Deoxys,Psychic,,
+428,409,386,Deoxys,Psychic,,
+429,410,387,Turtwig,Grass,,
+430,411,388,Grotle,Grass,,
+431,412,389,Torterra,Grass,Ground,
+432,413,390,Chimchar,Fire,,
+433,414,391,Monferno,Fire,Fighting,
+434,415,392,Infernape,Fire,Fighting,
+435,416,393,Piplup,Water,,
+436,417,394,Prinplup,Water,,
+437,418,395,Empoleon,Water,Steel,
+438,419,396,Starly,Normal,Flying,
+439,420,397,Staravia,Normal,Flying,
+440,421,398,Staraptor,Normal,Flying,
+441,422,399,Bidoof,Normal,,
+442,423,400,Bibarel,Normal,Water,
+443,424,401,Kricketot,Bug,,
+444,425,402,Kricketune,Bug,,
+445,426,403,Shinx,Electric,,
+446,427,404,Luxio,Electric,,
+447,428,405,Luxray,Electric,,
+448,429,406,Budew,Grass,Poison,
+449,430,407,Roserade,Grass,Poison,
+450,431,408,Cranidos,Rock,,
+451,432,409,Rampardos,Rock,,
+452,433,410,Shieldon,Rock,Steel,
+453,434,411,Bastiodon,Rock,Steel,
+454,435,412,Burmy,Bug,,
+455,435,412,Burmy,Bug,,
+456,435,412,Burmy,Bug,,
+457,436,412,Burmy,Bug,,
+458,436,412,Burmy,Bug,,
+459,436,412,Burmy,Bug,,
+460,437,412,Burmy,Bug,,
+461,437,412,Burmy,Bug,,
+462,437,412,Burmy,Bug,,
+463,438,413,Wormadam,Bug,Grass,
+464,438,413,Wormadam,Bug,Grass,
+465,438,413,Wormadam,Bug,Grass,
+466,439,413,Wormadam,Bug,Ground,
+467,439,413,Wormadam,Bug,Ground,
+468,439,413,Wormadam,Bug,Ground,
+469,440,413,Wormadam,Bug,Steel,
+470,440,413,Wormadam,Bug,Steel,
+471,440,413,Wormadam,Bug,Steel,
+472,441,414,Mothim,Bug,Flying,
+473,442,415,Combee,Bug,Flying,
+474,443,416,Vespiquen,Bug,Flying,
+475,444,417,Pachirisu,Electric,,Volt Absorb
+476,445,418,Buizel,Water,,
+477,446,419,Floatzel,Water,,
+478,447,420,Cherubi,Grass,,
+479,448,421,Cherrim,Grass,,
+480,448,421,Cherrim,Grass,,
+481,449,422,Shellos,Water,,Storm Drain
+482,449,422,Shellos,Water,,Storm Drain
+483,450,422,Shellos,Water,,Storm Drain
+484,450,422,Shellos,Water,,Storm Drain
+485,451,423,Gastrodon,Water,Ground,Storm Drain
+486,451,423,Gastrodon,Water,Ground,Storm Drain
+487,452,423,Gastrodon,Water,Ground,Storm Drain
+488,452,423,Gastrodon,Water,Ground,Storm Drain
+489,453,424,Ambipom,Normal,,
+490,454,425,Drifloon,Ghost,Flying,
+491,455,426,Drifblim,Ghost,Flying,
+492,456,427,Buneary,Normal,,
+493,457,428,Lopunny,Normal,,
+494,458,429,Mismagius,Ghost,,Levitate
+495,459,430,Honchkrow,Dark,Flying,
+496,460,431,Glameow,Normal,,
+497,461,432,Purugly,Normal,,Thick Fat
+498,462,433,Chingling,Psychic,,Levitate
+499,463,434,Stunky,Poison,Dark,
+500,464,435,Skuntank,Poison,Dark,
+501,465,436,Bronzor,Steel,Psychic,Heatproof
+502,466,437,Bronzong,Steel,Psychic,Heatproof
+503,467,438,Bonsly,Rock,,
+504,468,439,Mime Jr.,Psychic,Fairy,
+505,469,440,Happiny,Normal,,
+506,470,441,Chatot,Normal,Flying,
+507,471,442,Spiritomb,Ghost,Dark,
+508,472,443,Gible,Dragon,Ground,
+509,473,444,Gabite,Dragon,Ground,
+510,474,445,Garchomp,Dragon,Ground,
+511,475,446,Munchlax,Normal,,Thick Fat
+512,476,447,Riolu,Fighting,,
+513,477,448,Lucario,Fighting,Steel,
+514,478,449,Hippopotas,Ground,,
+515,479,450,Hippowdon,Ground,,
+516,480,451,Skorupi,Poison,Bug,
+517,481,452,Drapion,Poison,Dark,
+518,482,453,Croagunk,Poison,Fighting,
+519,483,454,Toxicroak,Poison,Fighting,
+520,484,455,Carnivine,Grass,,Levitate
+521,485,456,Finneon,Water,,Storm Drain
+522,486,457,Lumineon,Water,,Storm Drain
+523,487,458,Mantyke,Water,Flying,Water Absorb
+524,488,459,Snover,Grass,Ice,
+525,489,460,Abomasnow,Grass,Ice,
+526,490,461,Weavile,Dark,Ice,
+527,491,462,Magnezone,Electric,Steel,
+528,492,463,Lickilicky,Normal,,
+529,493,464,Rhyperior,Ground,Rock,Solid Rock
+530,494,465,Tangrowth,Grass,,
+531,495,466,Electivire,Electric,,Motor Drive
+532,496,467,Magmortar,Fire,,
+533,497,468,Togekiss,Fairy,Flying,
+534,498,469,Yanmega,Bug,Flying,
+535,499,470,Leafeon,Grass,,
+536,500,471,Glaceon,Ice,,
+537,501,472,Gliscor,Ground,Flying,
+538,502,473,Mamoswine,Ice,Ground,Thick Fat
+539,503,474,Porygon-Z,Normal,,
+540,504,475,Gallade,Psychic,Fighting,
+541,505,476,Probopass,Rock,Steel,
+542,506,477,Dusknoir,Ghost,,
+543,507,478,Froslass,Ice,Ghost,
+544,508,479,Rotom,Electric,Ghost,Levitate
+545,509,479,Rotom,Electric,Fire,Levitate
+546,510,479,Rotom,Electric,Water,Levitate
+547,511,479,Rotom,Electric,Ice,Levitate
+548,512,479,Rotom,Electric,Flying,Levitate
+549,513,479,Rotom,Electric,Grass,Levitate
+550,514,480,Uxie,Psychic,,Levitate
+551,515,481,Mesprit,Psychic,,Levitate
+552,516,482,Azelf,Psychic,,Levitate
+553,517,483,Dialga,Steel,Dragon,
+554,518,484,Palkia,Water,Dragon,
+555,519,485,Heatran,Fire,Steel,Flash Fire
+556,520,486,Regigigas,Normal,,
+557,521,487,Giratina,Ghost,Dragon,
+558,521,487,Giratina,Ghost,Dragon,Levitate
+559,522,487,Giratina,Ghost,Dragon,
+560,522,487,Giratina,Ghost,Dragon,Levitate
+561,523,488,Cresselia,Psychic,,Levitate
+562,524,489,Phione,Water,,
+563,525,490,Manaphy,Water,,
+564,526,491,Darkrai,Dark,,
+565,527,492,Shaymin,Grass,,
+566,527,492,Shaymin,Grass,,
+567,528,492,Shaymin,Grass,Flying,
+568,528,492,Shaymin,Grass,Flying,
+569,529,493,Arceus,Normal,,
+570,530,494,Victini,Psychic,Fire,
+571,531,495,Snivy,Grass,,
+572,532,496,Servine,Grass,,
+573,533,497,Serperior,Grass,,
+574,534,498,Tepig,Fire,,Thick Fat
+575,535,499,Pignite,Fire,Fighting,Thick Fat
+576,536,500,Emboar,Fire,Fighting,
+577,537,501,Oshawott,Water,,
+578,538,502,Dewott,Water,,
+579,539,503,Samurott,Water,,
+580,540,504,Patrat,Normal,,
+581,541,505,Watchog,Normal,,
+582,542,506,Lillipup,Normal,,
+583,543,507,Herdier,Normal,,
+584,544,508,Stoutland,Normal,,
+585,545,509,Purrloin,Dark,,
+586,546,510,Liepard,Dark,,
+587,547,511,Pansage,Grass,,
+588,548,512,Simisage,Grass,,
+589,549,513,Pansear,Fire,,
+590,550,514,Simisear,Fire,,
+591,551,515,Panpour,Water,,
+592,552,516,Simipour,Water,,
+593,553,517,Munna,Psychic,,
+594,554,518,Musharna,Psychic,,
+595,555,519,Pidove,Normal,Flying,
+596,556,520,Tranquill,Normal,Flying,
+597,557,521,Unfezant,Normal,Flying,
+598,558,521,Unfezant,Normal,Flying,
+599,559,522,Blitzle,Electric,,Sap Sipper
+600,560,523,Zebstrika,Electric,,Sap Sipper
+601,561,524,Roggenrola,Rock,,
+602,562,525,Boldore,Rock,,
+603,563,526,Gigalith,Rock,,
+604,564,527,Woobat,Psychic,Flying,
+605,565,528,Swoobat,Psychic,Flying,
+606,566,529,Drilbur,Ground,,
+607,567,530,Excadrill,Ground,Steel,
+608,568,531,Audino,Normal,,
+609,569,532,Timburr,Fighting,,
+610,570,533,Gurdurr,Fighting,,
+611,571,534,Conkeldurr,Fighting,,
+612,572,535,Tympole,Water,,Water Absorb
+613,573,536,Palpitoad,Water,Ground,Water Absorb
+614,574,537,Seismitoad,Water,Ground,Water Absorb
+615,575,538,Throh,Fighting,,
+616,576,539,Sawk,Fighting,,
+617,577,540,Sewaddle,Bug,Grass,
+618,578,541,Swadloon,Bug,Grass,
+619,579,542,Leavanny,Bug,Grass,
+620,583,546,Cottonee,Grass,Fairy,
+621,584,547,Whimsicott,Grass,Fairy,
+622,585,548,Petilil,Grass,,
+623,586,549,Lilligant,Grass,,
+624,587,550,Basculin,Water,,
+625,588,550,Basculin,Water,,
+626,589,551,Sandile,Ground,Dark,
+627,590,552,Krokorok,Ground,Dark,
+628,591,553,Krookodile,Ground,Dark,
+629,592,554,Darumaka,Fire,,
+630,593,555,Darmanitan,Fire,,
+631,593,555,Darmanitan,Fire,,
+632,594,555,Darmanitan,Fire,Psychic,
+633,594,555,Darmanitan,Fire,Psychic,
+634,595,556,Maractus,Grass,,Storm Drain
+635,596,557,Dwebble,Bug,Rock,
+636,597,558,Crustle,Bug,Rock,
+637,598,559,Scraggy,Dark,Fighting,
+638,599,560,Scrafty,Dark,Fighting,
+639,600,561,Sigilyph,Psychic,Flying,
+640,601,562,Yamask,Ghost,,
+641,602,563,Cofagrigus,Ghost,,
+642,603,564,Tirtouga,Water,Rock,Solid Rock
+643,604,565,Carracosta,Water,Rock,Solid Rock
+644,605,566,Archen,Rock,Flying,
+645,606,567,Archeops,Rock,Flying,
+646,607,568,Trubbish,Poison,,
+647,608,569,Garbodor,Poison,,
+648,609,570,Zorua,Dark,,
+649,610,571,Zoroark,Dark,,
+650,611,572,Minccino,Normal,,
+651,612,573,Cinccino,Normal,,
+652,613,574,Gothita,Psychic,,
+653,614,575,Gothorita,Psychic,,
+654,615,576,Gothitelle,Psychic,,
+655,616,577,Solosis,Psychic,,
+656,617,578,Duosion,Psychic,,
+657,618,579,Reuniclus,Psychic,,
+658,619,580,Ducklett,Water,Flying,
+659,620,581,Swanna,Water,Flying,
+660,621,582,Vanillite,Ice,,
+661,622,583,Vanillish,Ice,,
+662,623,584,Vanilluxe,Ice,,
+663,624,585,Deerling,Normal,Grass,Sap Sipper
+664,624,585,Deerling,Normal,Grass,Sap Sipper
+665,624,585,Deerling,Normal,Grass,Sap Sipper
+666,624,585,Deerling,Normal,Grass,Sap Sipper
+667,625,586,Sawsbuck,Normal,Grass,Sap Sipper
+668,625,586,Sawsbuck,Normal,Grass,Sap Sipper
+669,625,586,Sawsbuck,Normal,Grass,Sap Sipper
+670,625,586,Sawsbuck,Normal,Grass,Sap Sipper
+671,626,587,Emolga,Electric,Flying,Motor Drive
+672,627,588,Karrablast,Bug,,
+673,628,589,Escavalier,Bug,Steel,
+674,629,590,Foongus,Grass,Poison,
+675,630,591,Amoonguss,Grass,Poison,
+676,631,592,Frillish,Water,Ghost,Water Absorb
+677,632,592,Frillish,Water,Ghost,Water Absorb
+678,633,593,Jellicent,Water,Ghost,Water Absorb
+679,634,593,Jellicent,Water,Ghost,Water Absorb
+680,635,594,Alomomola,Water,,
+681,636,595,Joltik,Bug,Electric,
+682,637,596,Galvantula,Bug,Electric,
+683,638,597,Ferroseed,Grass,Steel,
+684,639,598,Ferrothorn,Grass,Steel,
+685,640,599,Klink,Steel,,
+686,641,600,Klang,Steel,,
+687,642,601,Klinklang,Steel,,
+688,643,602,Tynamo,Electric,,Levitate
+689,644,603,Eelektrik,Electric,,Levitate
+690,645,604,Eelektross,Electric,,Levitate
+691,646,605,Elgyem,Psychic,,
+692,647,606,Beheeyem,Psychic,,
+693,651,610,Axew,Dragon,,
+694,652,611,Fraxure,Dragon,,
+695,653,612,Haxorus,Dragon,,
+696,654,613,Cubchoo,Ice,,
+697,655,614,Beartic,Ice,,
+698,656,615,Cryogonal,Ice,,Levitate
+699,657,616,Shelmet,Bug,,
+700,658,617,Accelgor,Bug,,
+701,659,618,Stunfisk,Ground,Electric,
+702,660,619,Mienfoo,Fighting,,
+703,661,620,Mienshao,Fighting,,
+704,662,621,Druddigon,Dragon,,
+705,663,622,Golett,Ground,Ghost,
+706,664,623,Golurk,Ground,Ghost,
+707,665,624,Pawniard,Dark,Steel,
+708,666,625,Bisharp,Dark,Steel,
+709,667,626,Bouffalant,Normal,,Sap Sipper
+710,668,627,Rufflet,Normal,Flying,
+711,669,628,Braviary,Normal,Flying,
+712,670,629,Vullaby,Dark,Flying,
+713,671,630,Mandibuzz,Dark,Flying,
+714,672,631,Heatmor,Fire,,Flash Fire
+715,673,632,Durant,Bug,Steel,
+716,674,633,Deino,Dark,Dragon,
+717,675,634,Zweilous,Dark,Dragon,
+718,676,635,Hydreigon,Dark,Dragon,Levitate
+719,677,636,Larvesta,Bug,Fire,
+720,678,637,Volcarona,Bug,Fire,
+721,679,638,Cobalion,Steel,Fighting,
+722,680,639,Terrakion,Rock,Fighting,
+723,681,640,Virizion,Grass,Fighting,
+724,682,641,Tornadus,Flying,,
+725,682,641,Tornadus,Flying,,
+726,683,642,Thundurus,Electric,Flying,
+727,683,642,Thundurus,Electric,Flying,Volt Absorb
+728,684,643,Reshiram,Dragon,Fire,
+729,685,644,Zekrom,Dragon,Electric,
+730,686,645,Landorus,Ground,Flying,
+731,686,645,Landorus,Ground,Flying,
+732,687,646,Kyurem,Dragon,Ice,
+733,688,647,Keldeo,Water,Fighting,
+734,688,647,Keldeo,Water,Fighting,
+735,689,648,Meloetta,Normal,Psychic,
+736,689,648,Meloetta,Normal,Psychic,
+737,690,648,Meloetta,Normal,Fighting,
+738,690,648,Meloetta,Normal,Fighting,
+739,691,649,Genesect,Bug,Steel,
+740,692,650,Chespin,Grass,,
+741,693,651,Quilladin,Grass,,
+742,694,652,Chesnaught,Grass,Fighting,
+743,695,653,Fennekin,Fire,,
+744,696,654,Braixen,Fire,,
+745,697,655,Delphox,Fire,Psychic,
+746,698,656,Froakie,Water,,
+747,699,657,Frogadier,Water,,
+748,700,658,Greninja,Water,Dark,
+749,701,659,Bunnelby,Normal,,
+750,702,660,Diggersby,Normal,Ground,
+751,703,661,Fletchling,Normal,Flying,
+752,704,662,Fletchinder,Fire,Flying,
+753,705,663,Talonflame,Fire,Flying,
+754,706,664,Scatterbug,Bug,,
+755,707,665,Spewpa,Bug,,
+756,708,666,Vivillon,Bug,Flying,
+757,709,667,Litleo,Fire,Normal,
+758,710,668,Pyroar,Fire,Normal,
+759,711,669,Flabébé,Fairy,,
+760,712,670,Floette,Fairy,,
+761,713,671,Florges,Fairy,,
+762,714,672,Skiddo,Grass,,Sap Sipper
+763,715,673,Gogoat,Grass,,Sap Sipper
+764,716,674,Pancham,Fighting,,
+765,717,675,Pangoro,Fighting,Dark,
+766,718,676,Furfrou,Normal,,
+767,719,677,Espurr,Psychic,,
+768,721,679,Honedge,Steel,Ghost,
+769,722,680,Doublade,Steel,Ghost,
+770,723,681,Aegislash,Steel,Ghost,
+771,723,681,Aegislash,Steel,Ghost,
+772,724,682,Spritzee,Fairy,,
+773,725,683,Aromatisse,Fairy,,
+774,726,684,Swirlix,Fairy,,
+775,727,685,Slurpuff,Fairy,,
+776,728,686,Inkay,Dark,Psychic,
+777,729,687,Malamar,Dark,Psychic,
+778,730,688,Binacle,Rock,Water,
+779,731,689,Barbaracle,Rock,Water,
+780,732,690,Skrelp,Poison,Water,
+781,733,691,Dragalge,Poison,Dragon,
+782,734,692,Clauncher,Water,,
+783,735,693,Clawitzer,Water,,
+784,736,694,Helioptile,Electric,Normal,
+785,737,695,Heliolisk,Electric,Normal,
+786,738,696,Tyrunt,Rock,Dragon,
+787,739,697,Tyrantrum,Rock,Dragon,
+788,740,698,Amaura,Rock,Ice,
+789,741,699,Aurorus,Rock,Ice,
+790,742,700,Sylveon,Fairy,,
+791,743,701,Hawlucha,Fighting,Flying,
+792,744,702,Dedenne,Electric,Fairy,
+793,745,703,Carbink,Rock,Fairy,
+794,746,704,Goomy,Dragon,,Sap Sipper
+795,747,705,Sliggoo,Dragon,,Sap Sipper
+796,748,706,Goodra,Dragon,,Sap Sipper
+797,749,707,Klefki,Steel,Fairy,
+798,750,708,Phantump,Ghost,Grass,
+799,751,709,Trevenant,Ghost,Grass,
+800,752,710,Pumpkaboo,Ghost,Grass,
+801,753,711,Gourgeist,Ghost,Grass,
+802,754,712,Bergmite,Ice,,
+803,755,713,Avalugg,Ice,,
+804,756,714,Noibat,Flying,Dragon,
+805,757,715,Noivern,Flying,Dragon,
+806,758,716,Xerneas,Fairy,,
+807,759,717,Yveltal,Dark,Flying,
+808,760,718,Zygarde,Dragon,Ground,
+809,761,719,Diancie,Rock,Fairy,
+810,764,721,Volcanion,Fire,Water,Water Absorb
+811,765,722,Rowlet,Grass,Flying,
+812,766,723,Dartrix,Grass,Flying,
+813,767,724,Decidueye,Grass,Ghost,
+814,768,725,Litten,Fire,,
+815,769,726,Torracat,Fire,,
+816,770,727,Incineroar,Fire,Dark,
+817,771,728,Popplio,Water,,
+818,772,729,Brionne,Water,,
+819,773,730,Primarina,Water,Fairy,
+820,774,731,Pikipek,Normal,Flying,
+821,775,732,Trumbeak,Normal,Flying,
+822,776,733,Toucannon,Normal,Flying,
+823,777,734,Yungoos,Normal,,
+824,778,735,Gumshoos,Normal,,
+825,779,736,Grubbin,Bug,,
+826,780,737,Charjabug,Bug,Electric,
+827,781,738,Vikavolt,Bug,Electric,Levitate
+828,782,739,Crabrawler,Fighting,,
+829,783,740,Crabominable,Fighting,Ice,
+830,784,741,Oricorio,Fire,Flying,
+831,785,741,Oricorio,Electric,Flying,
+832,786,741,Oricorio,Psychic,Flying,
+833,787,741,Oricorio,Ghost,Flying,
+834,788,742,Cutiefly,Bug,Fairy,
+835,789,743,Ribombee,Bug,Fairy,
+836,790,744,Rockruff,Rock,,
+837,792,746,Wishiwashi,Water,,
+838,793,747,Mareanie,Poison,Water,
+839,794,748,Toxapex,Poison,Water,
+840,795,749,Mudbray,Ground,,
+841,796,750,Mudsdale,Ground,,
+842,797,751,Dewpider,Water,Bug,Water Absorb
+843,798,752,Araquanid,Water,Bug,Water Absorb
+844,799,753,Fomantis,Grass,,
+845,800,754,Lurantis,Grass,,
+846,801,755,Morelull,Grass,Fairy,
+847,802,756,Shiinotic,Grass,Fairy,
+848,803,757,Salandit,Poison,Fire,
+849,804,758,Salazzle,Poison,Fire,
+850,805,759,Stufful,Normal,Fighting,Fluffy
+851,806,760,Bewear,Normal,Fighting,Fluffy
+852,807,761,Bounsweet,Grass,,
+853,808,762,Steenee,Grass,,
+854,809,763,Tsareena,Grass,,
+855,810,764,Comfey,Fairy,,
+856,811,765,Oranguru,Normal,Psychic,
+857,812,766,Passimian,Fighting,,
+858,813,767,Wimpod,Bug,Water,
+859,814,768,Golisopod,Bug,Water,
+860,815,769,Sandygast,Ghost,Ground,
+861,816,770,Palossand,Ghost,Ground,
+862,817,771,Pyukumuku,Water,,
+863,818,772,Type: Null,Normal,,
+864,819,773,Silvally,Normal,,
+865,820,774,Minior,Rock,Flying,
+866,821,775,Komala,Normal,,
+867,822,776,Turtonator,Fire,Dragon,
+868,823,777,Togedemaru,Electric,Steel,Lightning Rod
+869,824,778,Mimikyu,Ghost,Fairy,
+870,825,779,Bruxish,Water,Psychic,
+871,826,780,Drampa,Normal,Dragon,Sap Sipper
+872,827,781,Dhelmise,Ghost,Grass,
+873,828,782,Jangmo-o,Dragon,,
+874,829,783,Hakamo-o,Dragon,Fighting,
+875,830,784,Kommo-o,Dragon,Fighting,
+876,831,785,Tapu Koko,Electric,Fairy,
+877,832,786,Tapu Lele,Psychic,Fairy,
+878,833,787,Tapu Bulu,Grass,Fairy,
+879,834,788,Tapu Fini,Water,Fairy,
+880,835,789,Cosmog,Psychic,,
+881,836,790,Cosmoem,Psychic,,
+882,837,791,Solgaleo,Psychic,Steel,
+883,838,792,Lunala,Psychic,Ghost,
+884,839,793,Nihilego,Rock,Poison,
+885,840,794,Buzzwole,Bug,Fighting,
+886,841,795,Pheromosa,Bug,Fighting,
+887,842,796,Xurkitree,Electric,,
+888,843,797,Celesteela,Steel,Flying,
+889,844,798,Kartana,Grass,Steel,
+890,845,799,Guzzlord,Dark,Dragon,
+891,846,800,Necrozma,Psychic,,Prism Armor
+892,847,801,Magearna,Steel,Fairy,
+893,848,802,Marshadow,Fighting,Ghost,
+894,849,803,Poipole,Poison,,
+895,850,804,Naganadel,Poison,Dragon,
+896,851,805,Stakataka,Rock,Steel,
+897,852,806,Blacephalon,Fire,Ghost,
+898,853,807,Zeraora,Electric,,Volt Absorb

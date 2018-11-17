@@ -520,8 +520,8 @@
 518,484,Palkia,Water,Dragon
 519,485,Heatran,Fire,Steel
 520,486,Regigigas,Normal,
-521,487,Giratina,Ghost,Dragon
-522,487,Giratina,Ghost,Dragon
+521,487,Giratina (Altered Forme),Ghost,Dragon
+522,487,Giratina (Origin Forme),Ghost,Dragon
 523,488,Cresselia,Psychic,
 524,489,Phione,Water,
 525,490,Manaphy,Water,
@@ -682,7 +682,8 @@
 680,639,Terrakion,Rock,Fighting
 681,640,Virizion,Grass,Fighting
 682,641,Tornadus,Flying,
-683,642,Thundurus,Electric,Flying
+683,642,Thundurus (Incarnate Forme),Electric,Flying
+684,642,Thundurus (Therian Forme),Electric,Flying
 684,643,Reshiram,Dragon,Fire
 685,644,Zekrom,Dragon,Electric
 686,645,Landorus,Ground,Flying
@@ -853,3 +854,5 @@
 851,805,Stakataka,Rock,Steel
 852,806,Blacephalon,Fire,Ghost
 853,807,Zeraora,Electric,
+854,808,Meltan,Steel,
+855,809,Melmetal,Steel,

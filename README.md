@@ -11,3 +11,5 @@ Run files in the following sequence:
 
 4. Combine PokeTable and TypeTable (Extract from https://pokemondb.net/type and custom AbilityTypeEff.csv, perform calculations of type effectiveness, clean for loading into MySQL, load into MySQL)
 
+## Group Members
+Adam DeBruler, Romy Robillard, and Minqiu Yu

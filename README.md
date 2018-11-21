@@ -7,5 +7,7 @@ Run files in the following sequence:
 
 2. Pokemon Pandas Pkmn Abilities (Extract from https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_Ability, merge with types, and clean for calculations)
 
-3. Combine PokeTable and TypeTable (Extract from https://pokemondb.net/type and custom AbilityTypeEff.csv, perform calculations of type effectiveness, clean for loading into MySQL, load into MySQL)
+3. PokemonSQL.sql (create database and table to receive data)
+
+4. Combine PokeTable and TypeTable (Extract from https://pokemondb.net/type and custom AbilityTypeEff.csv, perform calculations of type effectiveness, clean for loading into MySQL, load into MySQL)
 
